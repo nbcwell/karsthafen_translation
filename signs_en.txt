@@ -1,0 +1,1622 @@
+"Teufelshoehle - Gold and Silver Hall"
+101,-769,590
+"Main Street"
+96,-663,553,96,-663,557,96,-663,561,96,-663,565,96,-663,569,110,-663,577,110,-663,581,110,-663,585,97,-663,594,103,-663,594,109,-663,594,97,-663,392,103,-663,392,109,-663,392,103,-663,486,97,-663,489,97,-663,493,103,-663,496
+"Noerdliche living quarters"
+98,-663,553,98,-663,557,98,-663,561,98,-663,565
+"Construction is locked"
+98,-664,555,98,-664,559,98,-664,563,98,-664,567
+"Northern neighborhoods"
+98,-663,569
+"Devil's Tower"
+108,-663,569,108,-663,573,108,-663,577,108,-663,581,108,-663,585,108,-663,589,122,-663,572,112,-663,576,126,-663,582,116,-663,586,125,-1307,584
+"Haupststrasse"
+110,-663,573
+"North Hall"
+103,-663,592
+"Emergency materials for accidents and fire"
+110,-662,593
+"Staircase of the North Hall"
+110,-655,596,108,-648,600
+"Passage prohibited - Fatal"
+127,-7156,573
+"Devil's Grotto Hall"
+127,-769,584
+"Schwarzalbenheim and Devils Mine"
+122,-662,575,115,-662,576,123,-662,582,116,-662,583
+"Staircase to the galleries"
+114,-662,593,92,-662,393
+"Staircase to the upper gallery"
+112,-655,596,94,-655,390
+"Door of Hope"
+134,-9997,568
+"Hoellensaal"
+135,-9965,579
+"Deep Cave"
+135,-9156,578
+"Riesenhoehle"
+135,-9069,579
+"Low cave"
+135,-8940,577
+"Lower guesthouse"
+133,-8631,577
+"Geisterhoehle"
+133,-8103,577
+"Cave of the adventurer"
+133,-7731,577
+"Great Hall"
+133,-7239,577,339,7,486,348,7,486,351,7,486,360,7,486
+"Schlangenhoehle"
+135,-7172,577
+"Kathedralenhoehle"
+133,-6910,579
+"Depth freedom"
+133,-6271,577
+"Speisehoehle"
+133,-4347,577
+"Olmbachhoehle"
+133,-3259,577
+"Wild Waters - Low input"
+135,-3108,577
+"Wild Waters - Upper input"
+135,-3084,577
+"Large Hall"
+133,-2906,579
+"For a long cave"
+133,-2671,577
+"Schwarzalbenheim / Svartálfaheimr"
+10,-662,474,12,-661,478
+"Station Restaurant and Hotel"
+7,-662,480
+"U3 direction Karst castle"
+9,-662,480
+"Zollbehoerde"
+11,-662,482
+"Information and tickets"
+5,-661,483,1021,11,164,1021,11,174
+"Bahnhofstrasse"
+6,-662,486,10,-662,486
+"Station"
+6,-663,489,10,-663,489
+"Emergency materials for accidents and fire"
+96,-662,393
+"South Hall"
+103,-663,394
+"Bahnhofstrasse"
+98,-663,488,98,-663,494
+"Staircase of the South Hall"
+98,-648,386,96,-655,390
+"For dancing mermaid"
+310,4,476,313,4,476
+"Karst harbor - Seemannstor"
+320,5,460,325,5,460
+"For the hanged man"
+324,5,472
+"Minerva Theatre"
+331,4,490
+"Captain-stairs - Through at your own risk"
+344,7,451,357,16,449
+"Barracks of the City Watch"
+338,8,454
+"2nd balcony"
+337,12,482,337,12,485,361,13,482,361,13,485
+"Wardrobe"
+346,4,486,353,4,486
+"1. Balcony"
+348,12,492,351,12,492
+"Theater Restaurant"
+348,12,493,351,12,493,338,12,497,360,12,496
+"Large Ballroom"
+338,4,494
+"Information"
+348,4,495
+"Small Hall"
+355,5,494
+"Pub and Bar - The Pirate Hideout"
+375,2,450
+"The lower necropolis is closed due to flooding"
+414,11,487
+"Access to the crypt"
+408,15,489
+"Grave of the city founder's Anton Martin Meese Tiefensee"
+425,10,483
+"The mountain of the believers who could not afford Einzelgrabstaette that her plot in the Hereafter but can call her own."
+416,10,492
+"Grave of the Holy Mese"
+441,10,481
+"The spike of the Holy Saint Mese"
+447,10,481
+"The bones of the Pilgrims"
+436,12,493
+"Monastery chapel"
+444,12,494
+"Karst harbor center"
+469,8,453,475,8,453,433,5,441,448,6,429,456,6,429,448,6,433,456,6,433,448,6,441,456,6,441,448,6,445,456,6,445
+"Club 1001 Nights"
+494,12,455
+"Access over 18 years"
+493,12,456
+"Youth 'to biting warden'"
+486,19,451
+"Emergency Exit - Use only in an emergency"
+526,12,448,1000,28,210
+"Emergency keep unobstructed"
+513,12,449,543,11,448
+"hir ausuchen in the crate down"
+524,19,453
+"shop"
+525,19,457
+"Private - No Trespassing"
+534,12,448
+"Emergency exit"
+540,8,453,617,11,571,124,151,588
+"Free internal market"
+529,12,461,531,12,461
+"Cafe under the hanging garden"
+530,13,463
+"Crosswind - Passenger ride around the harbor Karst"
+543,11,474
+"Madame Under Stone - fortune teller and energy Reader"
+546,-31,469
+"Metro - U2"
+559,19,462
+"Pump Room at the deep pond"
+561,-31,479
+"Karst harbor beach"
+570,9,457,573,9,457
+"For fleets nudists"
+579,5,457
+"Metro - U2 - Through dressed only allowed"
+579,8,461
+"Lockers only for guests of the beach"
+586,6,472,585,6,473,604,9,490,603,9,491,626,10,480,630,10,480
+"Entering the flood ruins at your own risk -. Passage dressed only permitted!"
+589,5,494
+"Fast food at the deep well"
+620,18,484,625,17,484
+"Railwaymen's Fan Club"
+635,-17,478
+"Break room"
+628,22,483
+"Staircase"
+626,17,484
+"For the staircase"
+628,22,489
+"Tom, Dick and heating - wood and coal trade"
+629,17,490
+"Architektenbuero Kipp and Barney"
+629,17,494
+"Stairway to the sea view - Former flight path"
+651,-15,466
+"Railway system enter forbidden - Fatal"
+644,7,456
+"Hostel in the South Tower"
+651,18,472
+"Exit"
+640,18,484,465,25,613,431,10,412,367,24,471,367,24,474,361,24,490,106,144,575,109,154,581,110,76,584,128,76,573,113,76,570,125,76,588
+"Gemeinschaftsbuero '1. Castle Bureau ""
+652,17,486
+"Today," information about heating fuel and flue cleaning "the company" Hinz and heating wood and coal trading ""
+650,17,487
+"Information bar in the company of the '1. Castle Bureaus ""
+648,17,489
+"Karst castle"
+672,9,453,675,9,453,672,9,457,675,9,457,680,7,472,680,7,476
+"Seaview - please keep observation deck clean - Flood Scots must always be kept free!"
+672,3,455
+"U2 (beach path) - direction Karst harbor center"
+680,9,456
+"U3 direction Schwarzalbenheim"
+680,9,470
+"Postcards and souvenirs on the wall"
+685,9,480
+"The Wall pub"
+690,9,483
+"Restaurant beach view"
+692,10,489,707,6,488
+"Glass Fountain"
+302,9,411
+"Meistertuermle"
+299,9,416
+"No drinking water"
+297,9,417,-981,42,1109,-947,42,1109
+"-6- Froschhuepfen about the obstacles"
+314,8,388
+"Karst beer - Brewery"
+306,9,410
+"Karst beer - beer hall"
+316,9,410
+"Grocery store"
+304,9,427
+"Fruit and Gemuesehandelsgesellschaft"
+319,15,429
+"Karstens short and long products"
+304,8,436
+"Lifebuoy use only in an emergency!"
+307,3,503
+"City Watch - contingency planning"
+307,16,402
+"International Fruits & Vegetables"
+328,10,439
+"No Trespassing"
+331,2,505,331,2,506,-930,70,1171,418,21,423,455,1,432,381,24,458,368,24,463,131,-1307,592
+"Stall" rain and sun ""
+345,10,445
+"No access"
+357,12,499
+"Murder hole - Enter prohibitions - Fatal"
+366,10,520
+"Karst wigshafen outside investors - Access only for officer!"
+373,15,514
+"Karsttor"
+386,16,500
+"Kommandand of the Guard"
+392,24,503
+"Karst harbor - Karsttor"
+386,16,504
+"Devil's Tower / Architectural Monument / Tennis Stadium"
+384,16,515
+"God Tower"
+386,16,515
+"Church Archives"
+404,24,500
+"Karst wigshafen stables"
+424,18,540
+"Restaurant on the Wall"
+425,19,550
+"Hostel front of the wall"
+425,19,554
+"Karst Harbor - North Gate"
+429,19,567,429,19,574
+"Karst North Port"
+446,-5,574,446,-5,578,446,-5,582,446,-5,586,458,-5,574,458,-5,578,458,-5,582,458,-5,586
+"Ann train & daughter OHG"
+446,18,568
+"Apparel Industry Business"
+447,18,568
+"Home on Upper Gate"
+486,19,442
+"Purchase and sale, we also make home visits"
+486,19,445
+"Solar home"
+501,11,402
+"Upper Town Snacks"
+500,20,418,505,20,418
+"Food and drink at the right time saves a hunger any time."
+504,20,421
+"Live each day as if it is your first Waehren!"
+504,20,434
+"Neighbourhood Watch Upper Town"
+504,20,439
+"Peter's domicile"
+516,10,420
+"nicos domicile"
+525,19,443
+"CLOSE"
+526,19,443
+"Control center - sale of items in commission, registration and payment of Standtgebuehr"
+530,12,447
+"Snack" on the old ruin ""
+549,11,391
+"Guesthouse of the lower town"
+427,20,604
+"Franciscan"
+449,10,496
+"Men"
+456,5,538
+"Lockers"
+456,5,540
+"Women"
+456,5,544
+"Park on the outer cave - use at your own risk"
+449,10,553
+"Billy Cheap cheap goods"
+449,11,578
+"Residual and special"
+449,11,579
+As "21:00 clock: The Secret of MESE Part 37 - Newborn"
+455,12,582
+"18:00 Clock - The weigh of Graeser in the Wind"
+455,12,583
+"Film House"
+455,12,584
+"Hotel under the clear market"
+453,11,591
+"Gaststaette under the clear market"
+454,11,592
+"Clubhouse Friends of Film"
+463,16,579
+"Guesthouse of the clear market"
+461,18,602
+"Patio"
+462,25,605
+"Restaurant" clubhouse of the clear market '"
+463,25,614
+"Sand Castle"
+475,6,570
+"Fish Restaurant"
+475,6,571
+"Hot pans Delicatessen"
+478,10,604
+"Sleeping rooms"
+467,21,613
+"Frickel & deFrick - magazines and souvenirs"
+491,13,565
+"Kitchen - No access for unauthorized persons"
+494,8,568
+"School Holiday Center High Karst"
+488,13,573
+"Wettbuero" Gams Lost ""
+508,13,559
+"Shooting / rings throwing" case and pop ""
+508,13,566
+"Using the Abkuerzungsweges at your own risk"
+510,10,591,516,5,590
+"Fast Food" Clean and Bite ""
+518,14,559
+"Karst wigshafen souvenir / Karst Harbour Souvenirs"
+518,14,566
+"River Gate - Through the Park - In the park leaving the trails in - Danger to life due Sturzloecher"
+517,4,590
+"Karst harbor - River Gate"
+522,4,595,533,4,584
+"Sandro Shipwreck - Boat Builder"
+543,11,522
+"Fischbroetchen fresh from the fisherman Fritze"
+541,11,550
+"Prof. Geizus Shortus - Pawnshop"
+543,15,570,547,15,566
+"The soldiers Wuerfeltisch - Only for Gluecksspielkunden of Shortus"
+540,13,571
+"Prof. Geizus Shortus - Pawnshop and Gluecksspiele for the guard of the city"
+541,14,572
+"Under the Bridge - Antiques and magical grownups"
+528,5,574
+"River Gate"
+528,4,579
+"Shortus poker game - only for members of the city guard and their guests"
+543,18,571
+"Passage only for members of the city guard!"
+545,15,570
+"Parkland on the karstic Bach - leave the trails prohibited - Danger to life due Sturzloecher"
+555,4,603,530,11,700
+"Access to the Privatgemaechern - Through for non-family members strictly forbidden!"
+547,18,572
+"Public Storage"
+575,5,523
+"Amadas fried vegetables"
+565,13,549
+"Festhalle"
+570,15,565,573,15,565
+"Postcards and Toursitenfuehrer Karst and Karst castle harbor"
+575,16,559
+"Access to the beach at your own risk"
+578,4,511
+"Harbor"
+582,5,515
+"Schiffszubehoer" Nordnordwest GmbH ""
+588,7,535
+"Convalescent home 'health through community'"
+587,12,536
+"Dr. Impos goods from all over the world"
+584,12,538
+"Entrance to the lower town"
+591,0,565
+"Access to the lower town"
+576,3,658,640,8,523,435,4,440,362,13,416
+"Access to the park on the Karst Bach - leaving the way forbidden - Danger to life due Sturzloecher"
+576,2,660
+"Anmeldebuero Castle Karst castle"
+583,17,554
+"Fischerhuette - The restaurant in the green"
+595,4,590
+"Former Pferdetraenke"
+599,17,556
+"Dormitory Girl"
+592,25,565
+"Dormitory Boys"
+596,25,565
+"School and study trip home" castle gate ""
+599,17,572
+"Disco"
+623,11,546
+"Toilets"
+609,11,571
+"Fountain Square"
+617,17,499
+"New Shelter Undercity"
+634,-8,515
+"Hostel" Old Shelter ""
+634,2,517
+"Old Castle"
+624,11,546
+"Shipping company" Glugg & Glugg goods transport '"
+629,17,497
+"Castle Guard and address the Compliance Office"
+638,17,505
+"Gaststaette in the Tower"
+638,18,519
+"Public viewing platform 'interior castle gate'"
+630,17,558
+"Stairway to Gaststaette in the Tower"
+641,6,521
+"Kleinwuerg modeling and Rollenspielzubehoer"
+640,9,538
+"Hartmann Ironmongery in the courtyard"
+640,9,542
+"Office"
+641,13,551
+"Quiet House of the City Watch"
+651,22,554
+"Temple of Meeresgoetter"
+657,17,528,656,17,529
+"Daily 'Karst wigshafen land and sea news'"
+680,17,516
+"House of the believers of the lake"
+680,18,518
+"Passage only for servants of the God of the Sea"
+679,22,519,681,22,521
+"Passage only for servants of the God of the Sea"
+674,22,524,676,22,526
+"Old bastion - rest areas please keep clean"
+716,11,492
+"Max Reisenix - storage space for the sailor"
+718,5,506
+"Uebungslager the Karst wigshafen Thieves Guild"
+498,-17,592
+"Stairway to karst Bach"
+578,-28,508
+"1"
+709,12,768
+"2"
+709,12,782
+"For the merry miner"
+711,12,791,712,12,792
+"3"
+728,12,787
+"4"
+728,12,801
+"5"
+737,12,806
+"6"
+737,12,820
+"Disabled ascent to the World Race"
+974,-6,165,974,-6,173,979,-6,165,979,-6,173
+"U1 - direction of God Tower"
+974,-2,165,994,-2,165,999,-2,165
+"Weltrennen"
+974,-6,168,974,-6,170,979,-6,168,984,-6,168,989,-6,168,979,-6,170,984,-6,170,989,-6,170,994,-6,168,994,-6,170,397,20,176
+"U1 - direction Karst harbor"
+974,-2,173,994,-2,173,999,-2,173,-2,4,-46,-2,4,-44,2,4,-46,2,4,-44
+"Here is built for you: Oststrasse"
+966,22,176
+"Escalator to the World Race"
+989,-6,165,989,-6,173,994,-6,165,994,-6,173
+"Metro - U1"
+1001,24,175,1001,24,183,1042,23,175,1042,23,183,447,13,334
+"Going to the East Stand"
+994,24,193
+"Rang2"
+1004,24,193
+"Tier 1"
+1004,22,196
+"Tier 3"
+1001,26,196
+"Westtribuene"
+994,24,197
+"Tier 4"
+998,26,197
+"U1"
+1019,12,154,1014,11,165,1014,11,173,-2,3,-37,2,3,-37
+"Checkout 2"
+1010,10,156
+"Check 1"
+1010,10,159
+"Quick purchase"
+1015,13,159
+"Output - Weltrennen Westtribuene"
+1014,11,175,1014,11,183
+"Output - Weltrennen East Stand"
+1019,12,184
+"Rank Sued 1-2"
+1022,26,176
+"Healer fountain of racing"
+1014,31,177
+"This floor: 2 Rank Sued - downstairs: Rank 1 Sued"
+1023,25,184
+"East Stand - Rank Sued 1-4"
+1031,23,173
+"Rank Sued 4"
+1025,27,174,1038,28,189
+"Rank Sued 3"
+1025,27,176,1038,28,191
+"Going to the Westtribuene"
+1034,23,188
+"Osttribüne Rank 1-2"
+1036,23,188
+"Tier 2 South"
+1037,24,191
+"Rank 1 Sued"
+1037,24,193
+"Northern Tier 1"
+1037,24,203
+"Northern Tier 2"
+1037,24,205
+"Northern Tier 3"
+1038,28,205
+"Northern Tier 4"
+1037,28,207
+"Osttribüne Rank 3-4"
+1041,23,186
+"Dr. madness Hut - Quests unwelcome Get out!"
+1012,4,358
+"Dr. madness Geruempelhaus. If the stairs are littered, please shimmy through the window to the other floor."
+1012,11,358
+"pascal kuttla r.i.p"
+69,-8,-480
+"painted dilba r.i.p"
+71,-8,-480
+"henrik dollor r.i.p"
+73,-8,-480
+"willi frikel r.i.p"
+68,-8,-477
+"marc kull"
+74,-8,-477
+"r.i.p holl"
+71,-6,-477
+"zeronik hd r.i.p"
+69,-8,-474
+"Sarazar lp r.i.p"
+71,-8,-474
+"Gronkh lp r.i.p"
+73,-8,-474
+"nicos house no.2"
+89,4,-480
+"Jaegerhof"
+-289,-21,1177,-289,-21,1181,-289,-21,1189,-289,-21,1193,-273,-21,1177,-273,-21,1181,-273,-21,1189,-273,-21,1193
+"Koenigsdorf East"
+-289,-5,178,-289,-5,182,-289,-5,190,-289,-5,194,-287,-5,176,-275,-5,176,-273,-5,178,-273,-5,182,-273,-5,190,-273,-5,194,-287,-5,196,-275,-5,196
+"This is where the metro line 4"
+-274,-13,1176
+"Fairyland"
+-87,5,1423,-83,5,1423,-87,5,1425,-83,5,1425,-79,5,1423,-75,5,1423,-71,5,1423,-79,5,1425,-75,5,1425,-71,5,1425
+"Reception Gaestehauses 'sky garden'"
+-930,82,1185
+"Girls and Women Dormitory"
+-928,77,1174
+"Boys and Maennerschlafsaal"
+-928,77,1175
+"Garden of Heaven guard"
+-926,83,1164,-903,83,1164
+"Sky Garden Information"
+-926,82,1179,-924,83,1186
+"Sky garden guesthouse"
+-924,83,1187
+"Palace Guard"
+-924,83,1189
+"Access for unauthorized persons prohibited by"
+-924,83,1190
+"King Street"
+-471,42,1183,-471,42,1187
+"Access to the street"
+-460,42,1172,-456,42,1172
+"Local cruiser beer"
+-460,42,1198,-456,42,1198
+"Metro Station"
+-445,42,1183,-445,42,1187
+"solar"
+1782,10,184
+"Well hold otherwise the romance gone with the wind"
+1808,13,118
+"Romantic Place"
+1809,13,118
+"Split for freeze only for love!"
+1808,13,129
+"nico eage"
+1809,11,135
+"solar was here and sometimes there, but everyone is allowed to be here!"
+1809,14,135
+"Peters sprungturm"
+1809,17,135
+"home from nico"
+731,13,-63
+"keller"
+736,13,-61
+"-11- Trunk circuits to the rings"
+255,9,337
+"-12- Upper body on the tree trunk sit back and prevent."
+268,6,323
+"-10- Trunk rotation with a tree trunk on his shoulders."
+268,13,352
+"-9- Cross back over the obstacle and bottom."
+285,12,362
+"-14- Jump with their feet alternately on the tree trunks."
+298,4,317
+"-13- Knee bend and stretch"
+291,4,324
+"-8- Pull-ups"
+303,13,359
+"-7- Arm Circles sideways"
+302,9,375
+"-15- Vorwaertshuepfen left and right by the tree trunk"
+314,4,324
+"The old oak is at least 300 years old and was earlier once the meeting place of the Karst wigshafen Druids. The tree was earlier higher than today and is damaged by several Blitzeinschlaege. Nevertheless, it is still the tallest tree in the city of Karst harbor."
+314,12,350
+"Tennis Stadium north entrance / architect monument at zero / Devil's Tower"
+354,22,-64,354,22,-62
+"Tennis Court South Entrance"
+355,22,-64,357,22,-64
+"Karst port / World Race"
+355,22,-62,357,22,-62
+"For the tennis stadium"
+389,20,160
+"Karst harbor"
+395,20,176,193,10,-170,194,10,-170,195,10,-170,196,10,-170,197,10,-170
+"LInks: Court 4,5,6,7"
+159,3,-165
+"Go to Court 2 and its tribune"
+147,9,-160
+"On Court 3 and its tribune"
+147,9,-157
+"Getraeke"
+150,9,-136
+"Beverages"
+154,9,-136,236,9,-134,236,9,-129
+"Price List"
+153,9,-133,164,9,-134
+"Court 11"
+248,9,-163
+"Current data for the week"
+152,9,-254,152,10,-254,152,9,-253,152,10,-253,152,9,-252,152,10,-252,152,9,-251,152,10,-251,152,9,-250,152,10,-250,152,9,-249,152,10,-249
+"Grandstand on Court 1"
+150,9,-204
+"Tribune of Court 1,2,3,4,5"
+147,9,-197
+"Tribune to Court 1,2,3,4,5"
+147,9,-193
+"Links: Court 1,2,3,18"
+159,3,-186
+"Grandstand on Court 2"
+150,9,-186
+"Court 11,12,13 are to achieve the fastest through the exit"
+159,3,-185
+"Right: Court 4,5,6,7,8,9,10,14,15,16,17 / Kamara position / secret exit"
+159,3,-184
+"'
+185,10,-244,191,10,-244,168,0,-111,168,0,-105
+"Lounge" Nature "
+189,9,-208,192,9,-208
+"Court 18"
+197,9,-261
+"Ticket office"
+200,9,-235,203,9,-235,206,9,-235,209,9,-235,198,9,-135,198,9,-132,198,9,-129,198,9,-126
+"Security / Police"
+197,17,-219,166,17,-186,224,17,-183,196,17,-152
+"Lounge" beach "
+202,9,-208,205,9,-208
+"Hall of Fame / output / Court 11,12,13"
+213,9,-208,213,9,-205
+"Double 1993"
+215,9,-207
+"Double 1994"
+216,9,-207
+"Double 1995"
+217,9,-207
+"Double 1996 '
+218,9,-207
+"Double 1997"
+219,9,-207
+"Double 1998"
+220,9,-207
+"Double 1999"
+221,9,-207
+"Double 2000"
+222,9,-207
+"Double 2001"
+223,9,-207
+"Single 1993;"
+215,9,-206
+"Single in 1994"
+216,9,-206
+"Single in 1995"
+217,9,-206
+"Single in 1996"
+218,9,-206
+"Single in 1997"
+219,9,-206
+"Single 1998"
+220,9,-206
+"Single in 1999"
+221,9,-206
+"Single 2000"
+222,9,-206
+"Single in 2001"
+223,9,-206
+"Karst Port Open"
+220,10,-202,223,10,-202,190,10,-186,190,10,-184,200,10,-186,200,10,-184
+"Sponsored by solar"
+221,10,-202,222,10,-202
+"Press Room"
+213,9,-198,213,9,-195
+"Double 2002"
+224,9,-207
+"Double 2003"
+225,9,-207
+"Double 2004 '
+226,9,-207
+"Double 2005"
+227,9,-207
+"Double 2006:"
+228,9,-207
+"Double 2007"
+229,9,-207
+"Double 2008:"
+230,9,-207
+"Double 2009:"
+231,9,-207
+"Double 2010:"
+232,9,-207
+"Double 2011:"
+233,9,-207
+"Double 2012:"
+234,9,-207
+"Single 2002"
+224,9,-206
+"Single in 2003"
+225,9,-206
+"SINGLE 2004 '
+226,9,-206
+"Single in 2005"
+227,9,-206
+"Single in 2006"
+228,9,-206
+"Single 2007"
+229,9,-206
+"Single 2008:"
+230,9,-206
+"Single 2009:"
+231,9,-206
+"Single 2010:"
+232,9,-206
+"Single 2011:"
+233,9,-206
+"Single 2012:"
+234,9,-206
+"Only for staff"
+232,9,-197
+"Court 17"
+243,9,-261
+"Court 13"
+248,9,-235
+"Court 12"
+248,9,-199
+"Court 16"
+294,9,-233
+"Court 15"
+294,9,-197
+"Court 14"
+294,9,-163
+"Men left, right ladies"
+319,16,-141
+"Personal"
+161,3,-189,161,3,-187
+"Court 1-18 / Kamara position"
+171,11,-187
+"Court 1-18 / Kamara position"
+171,11,-183
+"Room 101"
+164,14,-169
+"Right: Court 8,9,10,14,15,16 / Kamara position / secret exit"
+161,3,-165
+"Room 102"
+164,14,-163
+"Changing Links: Mens"
+176,11,-187
+"Center Court"
+177,11,-185
+"Dressing Right: Women"
+176,11,-183
+"Premises"
+176,9,-169,176,9,-166
+"Kamara position"
+182,3,-165,184,3,-165
+"Restaurant"
+185,9,-161,188,9,-161
+"Secret output"
+192,7,-185,192,3,-165,195,3,-165
+"The center of the stadium"
+192,3,-167
+"To the center of the stadium"
+195,3,-167
+"At the Court 8,9,10"
+222,3,-165,226,3,-165
+"File"
+223,9,-163
+"Buecherei"
+209,9,-161,212,9,-161
+"Karst wigshafen newspaper:" After completion of the tennis center was decided here a big tournament, the "Karst Port Open" to start. Next year the tournament starts for the first time. "
+231,9,-163
+"Karst wigshafen newspaper:" start of construction of the tennis center. Planned are 18 outdoor courts and a tennis stadium. "
+231,9,-161
+"Karst wigshafen newspaper:" Design of a new tennis center, probably with stadium "!
+231,9,-159
+"Press Room"
+236,9,-159,236,9,-154
+"Snacks"
+224,9,-136,229,9,-136
+"Prices"
+231,9,-132,226,9,-129,227,9,-129
+"Grilled"
+161,9,-136,165,9,-136
+"Little things / Sweets"
+168,9,-136,172,9,-136
+"Stringing service / tennis goods"
+177,9,-136,180,9,-136
+"Tennis Stadium"
+193,-1,-109,201,-1,-109,201,-1,-105,193,-1,-101,201,-1,-101,193,-1,-97,193,-1,-93,201,-1,-93,-51,13,-8,-45,13,-8
+"First Aid"
+209,9,-136,212,9,-136
+"Deep second-hand market"
+359,-29,365
+"For the Court 4 and its tribune"
+147,9,-113
+"For the Court 5 and its tribune"
+147,9,-110
+"Direction?"
+177,0,-109,177,0,-107
+"For U1 / garage"
+193,9,-128
+"Karst port Karsttor / architect monument at zero / Devil's Tower"
+165,11,-62
+"Diversion Tennis Stadium North Gate"
+166,12,-62,167,12,-61
+"Tennis Stadium South Gate / Karst port Kelchtor / World Race"
+167,11,-60
+"Climb to the restaurant of the orphanage 'Small Horde"
+542,5,341
+"Access for tenants of the beds"
+543,4,367
+"Andeeas Alohoool - liquor and other beverages"
+544,5,379
+"Beach bar 'to the south'"
+562,4,357
+"Port forging"
+300,5,476
+"-16- Jump into the Cranes"
+319,4,315
+"Suedstadttor"
+432,13,317,432,13,322
+"New Tower - Committee for the beautification of the Suedstadt - Please ring the bell 3 times"
+446,13,318
+"Poker Club" Losty ""
+463,5,318,463,5,321
+"Club 666 - dance the night away on 2 levels"
+448,10,326
+"The credulous Hans. Resurrected in the afterlife. Nachmieter searched for the grave."
+401,24,388
+"Jin - The body is buried here, born again of the Spirit The grave please keep ready for the next incarnations.."
+404,24,388
+"Mario Oparetta - He was at the wrong place when his wife had an accident when cleaning the windows And now in the grave he will be what he never had before: Faithful."
+414,19,390
+"Hannelora Oparetta - She screamed so loud that they not heard their impact!"
+415,19,390
+"This is where the contradiction is buried in himself."
+412,21,392
+"Here lies Kapt'n glass eye. In his 2nd visit of Karst port he died exactly at this point in anger."
+401,22,392
+"Here lies Kapt'n Glaus eye fc. Shortly before his death he has this fc made so small that fit all 66 men in a single coffin."
+402,22,392
+"His last words:" I will live forever! ""
+413,21,395
+"It is not permitted to have blue striped cats pee on this grave."
+409,20,396
+"Here lies buried" Bea Mtenhund ", in his lifetime in charge of the cemetery and graveyard Regulation."
+409,20,397
+"His last words were:" A lovely wooden house, which I would have liked "And so he got this wooden cross.."
+415,20,397
+"In this grave rotates the famous musician John Theus ball."
+410,18,399
+"Reminder: Before leaving Checking the tomb and sunset time / -aufgangszeiten."
+421,12,391
+"Hans Hau Steinmetz died while trying his brother from a Dungeon Master to save and then buried in a grave stone of competitors. Together with the Dungeon Master Died while laughing. Listen and you will still rotate fortuitous!"
+427,15,396
+"Martin Metz, his last words were: What a Dungeon Master's no problem!"
+427,15,397
+"Ms. Olympia precious pride is sleeping under the stone, as she slept rarely - alone!"
+421,17,388
+"The old curmudgeon" Casanova Donnerbeil "- Died of a young woman"
+418,19,388
+"Tomb of the Draconis family Pfaehlinius"
+422,17,391
+"My wife Dorette man covers about this grave, for her and for my peace!"
+417,18,392
+"Arne (man) man is dead. Lowered 4 horse-drawn carriage for sale with Fuchschwanz."
+418,18,392
+"addi - He had the button" Do not push this button "pressured"
+424,17,395
+"This is the right side of the grave. I lie under the left!"
+416,18,395
+"This is the left side of the grave, I lie under the right!"
+417,18,395
+"No Trespassing of the grave."
+422,16,397
+"Parents are responsible for their children."
+423,16,397
+"Community grave of funny brothers. At this grave is forbidden to mourn."
+418,18,397
+"This grave was sponsored by the wardens Association Karst harbor."
+421,16,398
+"In this tomb are all, needless Verordungen and prohibitions."
+424,16,398
+"Kiosk at the station gates"
+443,10,394
+"Trains direction Weltrennen"
+449,11,336,450,3,365
+"Trains direction Karst harbor center"
+455,11,336,454,3,365
+"Karst Port South"
+448,7,344,456,7,344,448,7,348,456,7,348,448,7,352,456,7,352,448,7,356,456,7,356
+"Noch'n sip - daily press and beverages"
+458,5,372
+"Output rocky road"
+466,7,435,463,7,435
+"Output Muensterplatz / U1 direction south / U2 (beach path)"
+466,7,439,458,7,435,461,7,435,463,7,439
+"Upper Gate"
+473,19,434
+"Passage at your own risk"
+464,19,439,461,12,439,361,13,413,364,17,412
+"The city karst harbor thanks for all modern Fassungten Kugel music, thanks to which the city can be supplied with a free Fernwaerme by rotational energy."
+410,18,400
+"Long live vehicle at time, long time tombstone at death."
+405,19,400
+"Here lies buried the truckers' Rudi Raser" He died of unnatural death:.. Altersschwaeche "
+406,19,400
+"You"
+408,17,403
+"I"
+409,17,403
+"Drogo Baggins - Well, that he no longer had to experience what became of his son!"
+407,16,406
+"Primula Brandybuck - Too bad she could not see what became of her son!"
+408,16,406
+"Maria Gades - your piety and chastity is without blemish Died as a sparrow flew her in the mouth while preaching.."
+410,16,406
+"Erwin Gades - Died at Leberzirrose, the alcohol was his only friend."
+411,16,406
+"Mark H. which was not listening as you warned him."
+414,16,407
+"Cross of Suedes, grave of the North"
+404,16,408
+"Nadia H. the chatterbox that did not follow their own advice."
+414,16,408
+"Family grave of the family hermit"
+408,17,409
+"Common grave of the pastors of the Church 'To our dear wife' except Binnichda pastor who wanted to see the other side of the sea."
+411,18,409
+"Ronald Isegrim Penderast"
+403,17,413
+"The Seven Dwarfs - Tot combines"
+406,17,413
+"Rest in Peace: The War"
+409,17,413
+"User - His last words were: What can happen there already?"
+412,17,413
+"Here lies the gameplay"
+415,17,413
+"Lower situated Erbstollen to sewage system of the mine"
+418,10,400
+"Heinz advertising man, buried under a grave stone masons Metz and Hau!"
+425,15,401
+"Gold"
+423,9,402
+"Iron"
+428,9,402
+"This could be their tomb. Rest forever side Heinz advertising man! Prospective customers can be in the funeral Report on the graveyard."
+425,15,402
+"This grave is reserved for Elisa, the wife of Volker Dererde."
+428,15,403
+"Already in use! Volker Dererde"
+429,15,403
+"Loren conveyor for discharging of ore and overburden"
+418,9,404
+"Copper"
+423,9,404
+"Coal"
+428,9,404
+"Entwaesserungsgraben"
+418,9,406
+"Here lie buried anonymously: Karlheinz Undead, Maria riot, The Unknown Soldier Hans Hansen Hansen"
+427,15,407
+"Sandstone"
+431,10,408
+"Loesch bucket of the fire"
+431,15,408
+"Soft Stuetzbalken from spruce wood shows through creaking at risk"
+421,10,409,423,10,409
+"Hard Stuetzbalken oak with high capacity"
+427,10,409,429,10,409
+"Lumberjack"
+431,15,410
+"Diamand"
+425,9,413
+"Clay"
+431,15,413
+"The steal of this tomb is forbidden by the police."
+424,16,400
+"Best before tomorrow."
+422,16,401
+"The oeffnen the grave for unauthorized prohibited."
+423,16,401
+"Here are my bones, I wanted it would be your - Karl Julius - PS To my family: Stay away from my grave saying!"
+416,17,403
+"His last words:" Although she is now dead, she annoys me with such a strange-tasting food, this ... ""
+419,17,403
+"Her last words in a marriage dispute at the dinner table:" Pah, you know but do not even like you holds a sword ""
+420,17,403
+"Family grave of Oink family, which later was called Oink-Hinz but only Hinz wanted to be called, we therefore" Oink Oink Family-Hinz is only called Hinz "call."
+418,17,406
+"If you're reading this, you're on my grave! Anton About sandals."
+423,17,408
+"Frank weight, united in marriage crash, united for eternity"
+425,17,408
+"Mikhail Mecha which was buried in the crypt, but still got a grave stone in the graveyard."
+419,17,409
+"Andrea mass, divorced weight"
+425,17,410
+"The unknown thickness we all knew her as a good friend."
+418,17,411
+"The famous thin, whose name nobody knows."
+421,17,411
+"Flowers and Grabzubehoer Fa. Murderers"
+420,18,427
+"House of dialogue"
+423,16,443
+"Metro - U1 and U2"
+430,19,449,463,13,421,462,13,422
+"Bones of the old cemetery"
+429,12,469
+"Urban thrift store"
+440,12,403
+"To the graveyard"
+440,15,405
+"Mountain Stone"
+432,10,406
+"Wuestenstein"
+432,10,407
+"Pick a miner"
+433,15,408
+"Miners and construction workers shovel"
+435,15,408
+"Sense for field work"
+437,15,408
+"Steel Bars"
+434,15,410
+"Kuper bars"
+437,15,410
+"Bronze Bar"
+434,15,411
+"Gold bars"
+437,15,411
+"City Museum"
+441,17,407
+"The Mese crystal, a Diamat with yellow stain"
+439,24,408
+"The viewing platform"
+437,26,408,435,28,410
+"Acradacabraras magical flying machine"
+433,18,409
+"Rainbow Nyan Cat by the artist"
+432,25,409
+"Meese by the artist Celeron55"
+434,25,409
+"Steely sword of the guard"
+435,27,409
+"Furnace"
+434,16,411
+"Schaustollen"
+436,16,411
+"Climb to the home department"
+438,16,411
+"The parish register of the first settlement, located in the old Grabhuegel of origin of the adjacent bone"
+433,24,411
+"To wake up transition"
+436,28,411
+"A piece of rail U1, the oldest underground Liene of the world, which was built of steel from Karst wigshafen mines."
+436,24,413
+"The City Charter of Karst harbor, with the city charter bequeathed to the Emperor of the city, the two verziehrten with gold stone blocks, which he after Stadtgruender" "named" Meese ingots
+438,24,413
+"Steel safety door of the former Karst wigshafen company 'fracture and a KG'"
+434,25,413
+"Wooden doors of the Karst wigshafen company 'lockers'"
+437,25,413
+"Practice Dr. topless"
+444,20,425
+"N. Tweder evening clothes and Massschneidei"
+438,19,428
+"U1 direction Sued"
+447,7,436,447,7,438,449,2,440,449,2,444
+"Access to the underground"
+433,5,442
+"Lower Town restaurant" At the U1 ""
+432,4,443
+"High Voltage - Fatal"
+435,16,455
+"Parsonage"
+433,16,468
+"Model railway on the U1"
+459,8,401
+"Kuenstleragentur noise & Barney"
+456,11,425
+"U1 north"
+449,2,427,457,7,436,457,7,438
+"Output rock Street / U1 north"
+455,2,427,455,2,442,455,2,447
+"Tickets & Information"
+456,2,435
+"Farkahrten and information"
+456,2,441
+"Weaving Unterbrueck and Sons"
+456,13,441
+"Output Muensterplatz"
+449,2,445,449,2,453
+"Youth House"
+461,12,447
+"U2 (beach path)"
+455,2,455,455,2,458,455,2,461
+"Kuester"
+449,12,476
+"Level 5 of 13: Flying Islands"
+111,293,580
+"2/13 level: the level of copper plumbing"
+119,285,571
+"Level 1/13 - level of the Woods"
+127,288,577
+"Level 4 of 13: Steel tube"
+127,293,582
+"City Hall"
+367,16,454,367,16,479,367,16,483
+"Business Office"
+367,16,460
+"Mayor Office"
+366,24,461,369,24,470
+"Labour Inspectorate"
+356,24,488
+"Raatssaal"
+364,17,490
+"Courtyard with access to government offices"
+363,24,490
+"Work and Social Welfare Office"
+364,24,491
+"Archive"
+364,16,492
+"IRS"
+358,24,492
+"Club of philosophers"
+368,17,449
+"Karst wigshafen ship insurance"
+369,16,454
+"Mayor"
+379,24,460
+"Parlor"
+381,24,463
+"Registration Office"
+368,24,484
+"Criminal"
+368,24,489
+"Commissioner"
+380,24,501
+"At the rapids kitchen"
+396,17,447
+"Market Gate"
+386,16,458,386,16,462
+"Municipal Archives"
+393,24,460
+"Central Department Store"
+403,16,427
+"God's blessing - devotional"
+407,16,459
+"Library of the City Guard - please treat books with care"
+406,28,459
+"Muenster to Our Lady"
+414,16,468,405,16,479,405,16,483
+"Library"
+404,24,476
+"Karststaedter church organ"
+410,24,479
+"Rise to the tower"
+409,24,482
+"Access to the tower and library"
+415,16,488
+"Belfry - For unauthorized access no"
+412,37,481
+"Showers"
+108,144,567,107,154,567,130,180,572,130,180,586
+"Group locker"
+111,152,567,103,149,578,106,151,582,112,147,565
+"Locker"
+111,152,568,103,149,579,112,147,568
+"Women'S"
+106,151,584
+"Men'S"
+105,151,585
+"Shower Men"
+121,152,562
+"Shower Ladies"
+121,152,565
+"Swimming Pool"
+116,147,567,115,152,567
+"Panoramabad"
+112,151,586
+"Panoramabad - Emergency exit"
+126,151,586
+"Foot bath"
+110,180,566
+"Footbath"
+106,180,570
+"Ice pool"
+106,186,570
+"Whirlpool"
+106,179,574,106,179,584
+"Steam room"
+107,187,579
+"Start of the course"
+111,240,577
+"Finnish sauna"
+127,183,567
+"Changing / output"
+112,180,571,127,180,572,113,180,588,128,180,586
+"Panorama sauna"
+113,180,573,125,180,573,113,180,585,125,180,585
+"Devil's Tower Hotel"
+123,197,573,113,197,575,125,197,583,115,197,585
+"Hotel Restaurant Devil's Tower"
+123,229,573,113,229,575,125,229,583,115,229,585
+"Aquarium input"
+113,240,573,125,240,573,113,240,585,125,240,585
+"Jacuzzis"
+124,182,587
+"Thermal"
+114,179,590
+"Information and towel hire"
+126,180,591
+"For Panoramabad"
+125,180,592
+"Lockers for guests from the Panoramabad"
+118,181,594
+"Gesundbrunnen - healing water and arm-bath"
+115,186,594,123,186,594
+"Hot Stone"
+129,184,574,128,185,584
+"Healing brine pool"
+131,185,585
+"After the brine bath please showers"
+131,185,589
+"Devil's Tower Parkour - Start here and miss you in time!"
+109,270,570
+"Aquarium output"
+113,264,573,125,264,573,113,264,585,125,264,585
+"Devil's Tower Parkour"
+123,269,573,113,269,575,125,269,583,115,269,585
+"Level 3 from 13: Level of Head and fence"
+119,306,572
+"Devil's Tower Parkour - Zuschauertribuene"
+114,305,574,124,305,574,114,305,584,124,305,584
+"Level 9 of 13: Labyrinth"
+122,324,572
+"Level 10 of 13: Obsidian"
+119,334,572
+"Parkour - Endspurttribuene"
+114,334,575,114,334,583
+"Devil Parkour - Zieltribuene"
+116,353,573,125,353,576,113,353,582,122,353,585
+"Heaven and hell - Advertising Agency"
+116,361,573
+"Stars and Star - Kuenstleragentur"
+116,365,573
+"Level 8 of 13 Next Jump"
+126,312,577
+"Level 6 of 13: Freedom"
+112,309,580
+"Level 7 of 13 Glass"
+112,324,579
+"Level 11 of 13: Short relaxation"
+112,341,579
+"Level 13 of 13: Long Sprint / podium"
+112,348,579
+"Level 12 of 13: Short Sprint"
+126,340,580
+"Tangles - TV and film technology"
+125,361,576
+"Film Tower canteen"
+125,365,576
+"Head of the winner"
+112,352,579
+"Karst channel port - Radio station"
+113,361,582
+"Channel port Karst - TV station"
+113,365,582
+"Television Studio 666"
+122,361,585
+"Klirrrr - Sound Studio"
+122,365,585
+"CBA - Karst wigshafen news agency"
+116,369,573
+"Vertical City - Lower emergency exit"
+115,373,574,124,373,575,114,373,583,123,373,584
+"Film Tower - break room"
+125,369,576
+"Channel port Karst - News Studio"
+113,369,582
+"Ratschpeng - cartoon studio for film and TV"
+122,369,585
+"Vertical City - South Tower"
+121,521,575
+"Vertical City - West Tower"
+115,521,577
+"Vertical City - East Tower"
+123,521,581
+"Vertical City - North Tower"
+117,521,583
+"Little Karst wigshafen boat tunnel"
+195,5,600
+"Vertical City - Main Level"
+115,421,574,124,421,575,114,421,583,123,421,584
+"Observation deck of the white hall"
+112,139,572,126,139,572,112,139,586,126,139,586
+"No access for unauthorized persons"
+121,75,570,117,75,588
+"Grand Tower Restaurant"
+112,75,572,126,75,572,112,75,585,126,75,586
+"White Hall"
+124,108,572,112,108,574,126,108,584,114,108,586
+"Deep walks"
+124,-108,572
+"Hoellenloch"
+126,-124,586
+"Big Stichhoehle"
+126,-113,586
+"Hornhoehle"
+114,-104,586
+"Room of Souls"
+134,-246,541
+"Area of a thousand echoes"
+91,-379,557
+"Deep Throat"
+114,-386,584
+"For architects Memorial Stadium and Tennis"
+90,9,601
+"Lucifer Hall"
+110,-14,571
+"Luziferhoehle"
+112,-20,574
+"Lucifer Hall"
+112,-12,573
+"Climb to the big tower restaurant and the white hall"
+114,11,573
+"Entrance hall balcony"
+113,27,572,125,28,572,126,27,573,112,28,573,112,27,585,126,28,585,125,27,586,113,28,586
+"Climb to Panoramabad"
+113,11,584
+"After Karst harbor"
+148,9,601
+"Cave of Lost Souls"
+123,-253,573
+"Small Stichhoehle"
+125,-272,584
+"Little Stichsee"
+142,-261,602
+"Teufelshoehle High Gang"
+122,-761,577
+"Devil's Grotto High Gang"
+122,-762,581
+"Teufelshoehle Low gear"
+122,-768,583
+"Verhoerzimmer"
+107,-1311,567
+"Lounge"
+107,-1311,591
+"Goldhoehlengefaengnis"
+115,-1311,575,123,-1311,575,115,-1311,583,123,-1311,583
+"Goldhoehle"
+123,-1307,583,131,-1311,591
+"Dorm Room"
+131,-1311,567
+"Goldhoehle - Carriage prohibited tools!"
+135,-1311,593
+"Goldhoehle - Throne Room"
+142,-1298,604
+"Gate of the Damned"
+127,-1328,579
+"Karst port / Devil's Tower"
+-51,12,8,-45,12,8
+"Schwarzalbenheim (103, -664.605)"
+-22,3,17
+"Koenig Castle (-838,43,1185)"
+-22,3,19
+"Sky Storm (1630,21,230)"
+-20,3,22
+"Tennis Stadium (194,10, -186)"
+-18,3,22
+"Underground City (unnamed / under construction) <108 -4,984.592>"
+-16,3,22
+"Castle (1352.4, -815)"
+-14,3,22
+"Football Stadium (1574.3, -1110)"
+-12,3,22
+"colored case 1518.48, -1733"
+-10,3,22
+"Flying City 900.1000, -700"
+-8,3,22
+"Tennis Stadium 2 (-5640.32, -3822)"
+-6,3,22
+"Architects monument"
+-38,12,-1,-38,12,1,-6,-1,-57,-2,-1,-57,-6,-1,-49,-2,-1,-49,2,-1,-57,2,-1,-49
+"Tower (1768,14,161)"
+-22,3,-15
+"Cave (81,10, -480)"
+-22,3,-13
+"Cave (326,3,1370)"
+-22,3,-11
+"Hut (745,20, -52)"
+-22,3,-9
+"To Zero"
+-18,3,-3,-18,3,3
+"Karst port (384,16,505)"
+-22,3,7
+"Devil's Tower (119,9,604)"
+-22,3,9
+"Weltrennen (1032,22,179)"
+-22,3,11
+"Fairyland (-60,29,1426)"
+-22,3,13
+"Meritensee (731,3,131)"
+-22,3,15
+"U1 - direction Tennis Stadium"
+-3,4,-62,-2,4,-60,3,4,-62,2,4,-60
+"Architects Monument (solar, Peter)"
+26,13,21
+"U-Bahn (Peter, solar)"
+20,13,26
+"Country Roads (solar)"
+23,13,26
+"-18- Arm and leg swinging alternately left and right."
+330,4,297
+"-17- Liegestuetze"
+328,4,307
+"-20- At the bars along shimmy"
+326,10,341
+"Path to the old oak"
+329,12,355
+"-4- Body rockers and Arm Circles"
+334,13,372
+"-5- Swing left hand to right foot and right hand to the left foot."
+324,9,375
+"For traveling dealer"
+320,16,402
+"-19- The stairs jog and go down."
+338,7,299
+"-21- By balancing the tree"
+339,16,341
+"The answer to the question of all questions, the Question of Life, the Universe and Everything is to run a second round on the fitness trail."
+346,20,352
+"No Trespassing - starting from the fitness trail."
+346,20,354
+"Start of Exercise Path."
+348,20,356
+"Thank you for the use of the Karst wigshafen Trimmdich path"
+349,20,356
+"Karst wigshafen fitness trail."
+351,20,356
+"-1- Arm circles forwards and backwards"
+343,19,357
+"-2- Bending and stretching with raising the arm."
+341,16,363
+"-3- Squats with secondaries"
+338,14,380
+"Access only with permission of Gildenfuehrung"
+348,-12,384
+"Thieves Guild Karst port -" Take the rich, donation to the poor fidelity of the guild ""
+351,-11,388
+"Bookshop bookworm"
+336,10,415
+"Karst school"
+340,16,401
+"Karlsons tailoring and clothing manufacture"
+346,12,416
+"Spices"
+349,14,430
+"Karst harbor - Suedstadt"
+361,17,294
+"Karst Harbor - Downtown"
+359,17,296
+"Karst harbor - Kelchtor"
+362,19,385,370,19,385
+"Carpenter lockers"
+353,17,395
+"Drinking water fountain at Kelchtor"
+360,18,402
+"Fischhaendler the red tower"
+363,17,407
+"Home-grown fruit and potatoes"
+353,14,430
+"Association of Binnenhaendler"
+362,18,427
+"Mourning hall at the graveyard"
+379,22,401
+"By going to the graveyard"
+374,17,405
+"Guest House Luxor"
+379,16,417
+"Fast food at Red Tower"
+371,16,418
+"Use of the barbecue at your own risk"
+387,17,287
+"Anton A. - He was alive only because arm, because he grudged nothing to his heirs."
+398,24,388
+"In this grave lie buried all resolutions for the current year."
+384,22,389
+"Here lies buried the past year."
+385,22,389
+"This grave is reserved for YOU and your whole family. Har har har!"
+388,22,389
+"And this grave of his wife [db_feld_name], which [db_feld_verknuepfung_gatte] You live long in loyalty was devoted."
+390,22,389
+"This grave belongs ....."
+391,22,389
+"Norbert Norosa, Gaertner's lifetime, compost in death."
+393,22,389
+"Natalia Noroasa loved roses of her life. Now she is looking at this from the bottom."
+394,22,389
+"Juliet Capulet"
+386,22,391
+"Romeo"
+387,22,391
+"Here lies buried the marital discord."
+392,22,392
+"And here the couple to do so."
+393,22,392
+"No, this is not a grave! This wooden cross of the famous pirate" glass eye "built to hide a treasure underneath. The municipality of Karst port thanks him for this involuntary donation."
+398,24,392
+"Here lies our beloved librarian of the fist on the eye much."
+385,21,394
+"Here lies buried the SPAM."
+389,21,394
+"Here lies the spirit of always denied."
+385,21,395
+"Here lies buried the HAM, which was inadvertently disposed of with SPAM."
+389,21,395
+"The Totengraeber" Egon airhead "is shoveled this grave for yourself. Please, no other corpses thrown into the hole!"
+392,21,396
+"Martinia Altenburga - Born as a virgin - Died as a virgin - In short, unopened!"
+395,21,398
+"Minetest - His last words:" I am not a computer program "- Then he pressured ALT + F4"
+398,21,398
+"This cross is to commemorate the dead of future wars."
+387,23,398
+"Martin Martin Marthaus - Here I lie, I can not help it."
+391,21,401
+"Unfortunately, this grave stone saying is not available in your country."
+392,21,401
+"Stake - Please use only in acute shortage corpse."
+397,22,402
+"Here lies buried:" Boredom "She died of Kurzweil.."
+398,19,404
+"Here lies Gammo Gammer His last words." I am now even offline "."
+393,21,404
+"Pink Rosetta - She loved roses of her life, now she looks at the roses from below!"
+387,24,404
+"Here lie buried: The nerve They went from us shortly after they found the right Saege.."
+398,19,405
+"This is Martha Gammer. 103 people enjoy it."
+393,21,405
+"Here Lies Marko Morka the Huetchenspieler?"
+392,22,407
+"Family tomb of Erwin Fickmich that never finished a green family and is thus alone in this tomb."
+398,20,409
+"Or is Marko Morka the Huetchenspieler here?"
+392,22,409
+"Or is Marko Morka the Huetchenspieler about here?"
+392,22,411
+"Funeral at the graveyard"
+395,22,413

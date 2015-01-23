@@ -1,0 +1,1622 @@
+﻿"Teufelshoehle - Gold und Silberhalle"
+101,-769,590
+"Hauptstrasse"
+96,-663,553,96,-663,557,96,-663,561,96,-663,565,96,-663,569,110,-663,577,110,-663,581,110,-663,585,97,-663,594,103,-663,594,109,-663,594,97,-663,392,103,-663,392,109,-663,392,103,-663,486,97,-663,489,97,-663,493,103,-663,496
+"Noerdliche Wohnquartiere"
+98,-663,553,98,-663,557,98,-663,561,98,-663,565
+"Wegen Bauarbeiten gesperrt"
+98,-664,555,98,-664,559,98,-664,563,98,-664,567
+"Nordliche Wohnquartiere"
+98,-663,569
+"Teufelsturm"
+108,-663,569,108,-663,573,108,-663,577,108,-663,581,108,-663,585,108,-663,589,122,-663,572,112,-663,576,126,-663,582,116,-663,586,125,-1307,584
+"Haupststrasse"
+110,-663,573
+"Nordhalle"
+103,-663,592
+"Notfallmaterialen fuer Unfaelle und Feuer"
+110,-662,593
+"Treppe zur Nordhalle"
+110,-655,596,108,-648,600
+"Durchgang verboten - Lebensgefahr"
+127,-7156,573
+"Teufelsgrottensaal"
+127,-769,584
+"Schwarzalbenheim und Teufelsmine"
+122,-662,575,115,-662,576,123,-662,582,116,-662,583
+"Treppe zu den Emporen"
+114,-662,593,92,-662,393
+"Treppe zur oberen Empore"
+112,-655,596,94,-655,390
+"Tor der Hoffnung"
+134,-9997,568
+"Hoellensaal"
+135,-9965,579
+"Tiefe Hoehle"
+135,-9156,578
+"Riesenhoehle"
+135,-9069,579
+"Niedere Hoehle"
+135,-8940,577
+"Niederes Gaestehaus"
+133,-8631,577
+"Geisterhoehle"
+133,-8103,577
+"Hoehle des Abenteurers"
+133,-7731,577
+"Grosser Saal"
+133,-7239,577,339,7,486,348,7,486,351,7,486,360,7,486
+"Schlangenhoehle"
+135,-7172,577
+"Kathedralenhoehle"
+133,-6910,579
+"Tiefe Freiheit"
+133,-6271,577
+"Speisehoehle"
+133,-4347,577
+"Olmbachhoehle"
+133,-3259,577
+"Wilde Wasser - Unterer Eingang"
+135,-3108,577
+"Wilde Wasser - Oberer Eingang"
+135,-3084,577
+"Weite Halle"
+133,-2906,579
+"Lange Hoehle"
+133,-2671,577
+"Schwarzalbenheim / Svartalfaheimr"
+10,-662,474,12,-661,478
+"Bahnhofsrestaurant und Hotel"
+7,-662,480
+"U3 Richtung Karstburg"
+9,-662,480
+"Zollbehoerde"
+11,-662,482
+"Information und Fahrkarten"
+5,-661,483,1021,11,164,1021,11,174
+"Bahnhofsstrasse"
+6,-662,486,10,-662,486
+"Bahnhof"
+6,-663,489,10,-663,489
+"Notfallmaterialien fuer Unfaelle und Feuer"
+96,-662,393
+"Suedhalle"
+103,-663,394
+"Bahnhofstrasse"
+98,-663,488,98,-663,494
+"Treppe zur Suedhalle"
+98,-648,386,96,-655,390
+"Zur tanzenden Meerjungfrau"
+310,4,476,313,4,476
+"Karsthafen - Seemannstor"
+320,5,460,325,5,460
+"Zum Gehenkten"
+324,5,472
+"Minerva Theater"
+331,4,490
+"Seemanns-Stiege - Durchgang auf eigene Gefahr"
+344,7,451,357,16,449
+"Kaserne der Stadtwache"
+338,8,454
+"2. Balkon"
+337,12,482,337,12,485,361,13,482,361,13,485
+"Gaderobe"
+346,4,486,353,4,486
+"1. Balkon"
+348,12,492,351,12,492
+"Theaterrestaurant"
+348,12,493,351,12,493,338,12,497,360,12,496
+"Grosser Festsaal"
+338,4,494
+"Information"
+348,4,495
+"Kleiner Saal"
+355,5,494
+"Kneipe und Bar - Zum Piratenversteck"
+375,2,450
+"Die untere Totenstadt ist wegen Ueberflutung gesperrt"
+414,11,487
+"Zugang zur Krypta"
+408,15,489
+"Grab des Stadtgruenders Martin Anton Meese von Tiefensee"
+425,10,483
+"Der Berg der Glaeubigen welche sich keine Einzelgrabstaette leisten konnten, die aber ihr Grundstueck im Jenseits ihr eigen werden nennen koennen."
+416,10,492
+"Grab des Heiligen Mese"
+441,10,481
+"Die Aehre des Heiligen Sankt Mese"
+447,10,481
+"Die Knochen der Pilger"
+436,12,493
+"Klosterkapelle"
+444,12,494
+"Karsthafen Mitte"
+469,8,453,475,8,453,433,5,441,448,6,429,456,6,429,448,6,433,456,6,433,448,6,441,456,6,441,448,6,445,456,6,445
+"Club 1001 Nacht"
+494,12,455
+"Zutritt ab 18 Jahren"
+493,12,456
+"Jugendherberge 'Zum bissigen Herbergsvater'"
+486,19,451
+"Notausgang - Nur im Notfall benutzen"
+526,12,448,1000,28,210
+"Notausgang bitte freihalten"
+513,12,449,543,11,448
+"hir unten in der kiste ausuchen"
+524,19,453
+"shop"
+525,19,457
+"Privat - Kein Durchgang"
+534,12,448
+"Notausgang"
+540,8,453,617,11,571,124,151,588
+"Freier Innenmarkt"
+529,12,461,531,12,461
+"Cafe unter dem haengendem Garten"
+530,13,463
+"Seitenwind - Personenschifffahrt rund um Karsthafen"
+543,11,474
+"Madame Unterstein - Wahrsagerin und Energieleserin"
+546,-31,469
+"Metro - Linie U2"
+559,19,462
+"Trinkhalle am tiefen Teich"
+561,-31,479
+"Karsthafen Strand"
+570,9,457,573,9,457
+"Zum flotten Nudisten"
+579,5,457
+"Metro - Linie U2 - Durchgang nur bekleidet gestattet"
+579,8,461
+"Schliessfaecher nur fuer Gaeste des Strands"
+586,6,472,585,6,473,604,9,490,603,9,491,626,10,480,630,10,480
+"Betreten der Flutruinen auf eigene Gefahr. - Durchgang nur bekleidet gestattet!"
+589,5,494
+"Imbiss am tiefen Brunnen"
+620,18,484,625,17,484
+"Eisenbahner-Fanclub"
+635,-17,478
+"Pausenraum"
+628,22,483
+"Treppenhaus"
+626,17,484
+"Zum Treppenhaus"
+628,22,489
+"Hinz und Heiz - Holz- und Kohlehandel"
+629,17,490
+"Architektenbuero Kipp und Krach"
+629,17,494
+"Aufgang zur Meeressicht - Ehemaliger Fluchtpfad"
+651,-15,466
+"Eisenbahnanlage betreten verboten - Lebensgefahr"
+644,7,456
+"Herberge im Suedturm"
+651,18,472
+"Ausgang"
+640,18,484,465,25,613,431,10,412,367,24,471,367,24,474,361,24,490,106,144,575,109,154,581,110,76,584,128,76,573,113,76,570,125,76,588
+"Gemeinschaftsbuero "1. Burgbureau""
+652,17,486
+"Heute: "Informationen zu Heizmaterialien und Kaminbau" der Firma "Hinz und Heiz Holz- und Kohlehandel""
+650,17,487
+"Informationstheke der Unternehmen des "1. Burgbureaus""
+648,17,489
+"Karstburg"
+672,9,453,675,9,453,672,9,457,675,9,457,680,7,472,680,7,476
+"Meeressicht - Aussichtsplattform bitte sauber halten - Die Hochwasserschotten muessen immer freigehalten werden!"
+672,3,455
+"U2 (Strandbahn) - Richtung Karsthafen Mitte"
+680,9,456
+"U3 Richtung Schwarzalbenheim"
+680,9,470
+"Postkarten und Andenken an der Mauer"
+685,9,480
+"Die Mauerkneipe"
+690,9,483
+"Restaurant Strandblick"
+692,10,489,707,6,488
+"Glasbrunnen"
+302,9,411
+"Meistertuermle"
+299,9,416
+"Kein Trinkwasser"
+297,9,417,-981,42,1109,-947,42,1109
+"-6- Froschhuepfen ueber die Hindernisse"
+314,8,388
+"Karstbier - Brauerei"
+306,9,410
+"Karstbier - Bierhalle"
+316,9,410
+"Kolonialwarenladen"
+304,9,427
+"Obst- und Gemuesehandelsgesellschaft"
+319,15,429
+"Karstens Kurz- und Langwaren"
+304,8,436
+"Rettungsring nur im Notfall benutzen!"
+307,3,503
+"Stadtwache - Ausfallplanung"
+307,16,402
+"Internationales Obst und Gemuese"
+328,10,439
+"Kein Durchgang"
+331,2,505,331,2,506,-930,70,1171,418,21,423,455,1,432,381,24,458,368,24,463,131,-1307,592
+"Verkaufsstand "Regen und Sonne""
+345,10,445
+"Kein Zugang"
+357,12,499
+"Mordloch - Betreten Verboten - Lebensgefahr"
+366,10,520
+"Karsthafener Aussenanleger - Zutritt nur fuer Befugte!"
+373,15,514
+"Karsttor"
+386,16,500
+"Kommandand der Wache"
+392,24,503
+"Karsthafen - Karsttor"
+386,16,504
+"Teufelsturm / Architektendenkmal / Tennisstadion"
+384,16,515
+"Gottesturm"
+386,16,515
+"Kirchenarchiv"
+404,24,500
+"Karsthafener Stallungen"
+424,18,540
+"Restaurant vor der Mauer"
+425,19,550
+"Herberge vor der Mauer"
+425,19,554
+"Karsthafen - Nordtor"
+429,19,567,429,19,574
+"Karsthafen Nord"
+446,-5,574,446,-5,578,446,-5,582,446,-5,586,458,-5,574,458,-5,578,458,-5,582,458,-5,586
+"Ann Zug & Tochter OHG"
+446,18,568
+"Bekleidungsfachgeschaeft"
+447,18,568
+"Antiquariat am Oberen Tor"
+486,19,442
+"An- und Verkauf, wir machen auch Hausbesuche"
+486,19,445
+"Solars Domizil"
+501,11,402
+"Oberstadt-Imbiss"
+500,20,418,505,20,418
+"Speis und Trank zur rechten Zeit erspart einem Hunger jederzeit."
+504,20,421
+"Lebe jeden Tag so, als waehre es Dein erster!"
+504,20,434
+"Nachbarschaftswache Oberstadt"
+504,20,439
+"Peters Domizil"
+516,10,420
+"nicos Domizil"
+525,19,443
+"CLOSE"
+526,19,443
+"Leitstand - Verkauf von Einzelteilen in Komission, Anmeldung und Entrichtung der Standtgebuehr"
+530,12,447
+"Imbiss "An der alten Ruine""
+549,11,391
+"Gaestehaus der Unterstadt"
+427,20,604
+"Franziskanerkloster"
+449,10,496
+"Maenner"
+456,5,538
+"Schliessfaecher"
+456,5,540
+"Frauen"
+456,5,544
+"Park an der Aussengrotte - Benutzung auf eigene Gefahr"
+449,10,553
+"Billy Billig Billigwaren"
+449,11,578
+"Rest- und Sonderposten"
+449,11,579
+"21:00 Uhr: Das Geheimnis von MESE Teil 37 - Neugeboren"
+455,12,582
+"18:00 Uhr - Das wiegen der Graeser im Wind"
+455,12,583
+"Filmhaus"
+455,12,584
+"Hotel unter dem lichten Markt"
+453,11,591
+"Gaststaette unter dem lichten Markt"
+454,11,592
+"Vereinshaus der Filmfreunde"
+463,16,579
+"Gaestehaus des lichten Marktes"
+461,18,602
+"Terrasse"
+462,25,605
+"Restaurant "Clubhaus des lichten Marktes""
+463,25,614
+"Sandburg"
+475,6,570
+"Fischrestaurant"
+475,6,571
+"Heisse Pfannen Feinkost"
+478,10,604
+"Schlafraeume"
+467,21,613
+"Frickel & deFrick - Zeitschriften und Souveniers"
+491,13,565
+"Kueche - Kein Zutritt fuer Unbefugte"
+494,8,568
+"Schulurlaubscenter Hohe Karst"
+488,13,573
+"Wettbuero "Gams von Lost""
+508,13,559
+"Schiessstand / Ringewerfen "Fall und Knall""
+508,13,566
+"Benutzung des Abkuerzungsweges auf eigene Gefahr"
+510,10,591,516,5,590
+"Schnellimbiss "Rein und Beiss""
+518,14,559
+"Karsthafener Andenken / Karstharbour Souvenirs"
+518,14,566
+"Flusspforte - Durchgang zu den Parkanlagen - In den Parkanlagen ist das Verlassen der Wege verboten - Lebensgefahr durch Sturzloecher"
+517,4,590
+"Karsthafen - Flusspforte"
+522,4,595,533,4,584
+"Sandro Schiffbruch - Bootsbauer"
+543,11,522
+"Fischbroetchen frisch vom Fischer Fritze"
+541,11,550
+"Prof. Geizus Shortus - Pfandleihe"
+543,15,570,547,15,566
+"Des Soldaten Wuerfeltisch - Nur fuer Gluecksspielkunden von Shortus"
+540,13,571
+"Prof. Geizus Shortus - Pfandhaus und Gluecksspiele fuer die Wache der Stadt"
+541,14,572
+"Unter der Bruecke - Antiquitaeten und magische Geraetschaften"
+528,5,574
+"Flusspforte"
+528,4,579
+"Shortus Pokerrunde - Nur fuer Mitglieder der Stadtwache und deren Gaeste"
+543,18,571
+"Durchgang nur fuer Mitglieder der Stadtwache!"
+545,15,570
+"Parkanlage am Karstbach - Verlassen der Wege verboten - Lebensgefahr durch Sturzloecher"
+555,4,603,530,11,700
+"Zugang zu den Privatgemaechern - Durchgang fuer Nichtfamilienmitglieder strengstens verboten!"
+547,18,572
+"Oeffentlicher Speicher"
+575,5,523
+"Amadas fritierte Gemuese"
+565,13,549
+"Festhalle"
+570,15,565,573,15,565
+"Ansichtskarten und Toursitenfuehrer Karstburg und Karsthafen"
+575,16,559
+"Zugang zum Strand auf eigene Gefahr"
+578,4,511
+"Hafenmeisterei"
+582,5,515
+"Schiffszubehoer "Nord Nord West GmbH""
+588,7,535
+"Genesungsheim 'Gesundheit durch Gemeinschaft'"
+587,12,536
+"Dr. Impos Waren aus aller Welt"
+584,12,538
+"Eingang zur Unterstadt"
+591,0,565
+"Zugang zur Unterstadt"
+576,3,658,640,8,523,435,4,440,362,13,416
+"Zugang zu den Parkanlagen am Karstbach - Verlassen der Wege veboten - Lebensgefahr durch Sturzloecher"
+576,2,660
+"Anmeldebuero Schloss Karstburg"
+583,17,554
+"Fischerhuette - Das Restaurant im Gruenen"
+595,4,590
+"Ehemalige Pferdetraenke"
+599,17,556
+"Schlafsaal Maedchen"
+592,25,565
+"Schlafsaal Jungs"
+596,25,565
+"Schul- und Studiumausflugsheim "Burgtor""
+599,17,572
+"Diskothek"
+623,11,546
+"Toiletten"
+609,11,571
+"Brunnenplatz"
+617,17,499
+"Neue Notunterkunft Unterstadt"
+634,-8,515
+"Herberge "Alte Notunterkunft""
+634,2,517
+"Alte Burg"
+624,11,546
+"Schifffahrtsgesellschaft 'Glugg & Glugg Gueterverkehr'"
+629,17,497
+"Burgwache und Anlaufstelle des Ordnungsamtes"
+638,17,505
+"Gaststaette im Turm"
+638,18,519
+"Oeffentliche Aussichtsplattform 'Inneres Burgtor'"
+630,17,558
+"Aufgang zur Gaststaette im Turm"
+641,6,521
+"Kleinwuerg Modellbau und Rollenspielzubehoer"
+640,9,538
+"Hartmann Eisenwarenhandel im Burghof"
+640,9,542
+"Buero"
+641,13,551
+"Ruhehaus der Stadtwache"
+651,22,554
+"Tempel der Meeresgoetter"
+657,17,528,656,17,529
+"Tageszeitung 'Karsthafener Land- und Seenachrichten'"
+680,17,516
+"Wohnhaus der Glaeubigen der See"
+680,18,518
+"Durchgang nur fuer Dienerinnen des Meeresgottes"
+679,22,519,681,22,521
+"Durchgang nur fuer Diener des Meeresgottes"
+674,22,524,676,22,526
+"Alte Bastion - Ruhebereiche bitte sauberhalten"
+716,11,492
+"Max Reisenix - Lagerraum fuer den Seemann"
+718,5,506
+"Uebungslager der Karsthafener Diebesgilde"
+498,-17,592
+"Aufgang zum Karstbach"
+578,-28,508
+"1"
+709,12,768
+"2"
+709,12,782
+"Zum froehlichen Bergmann"
+711,12,791,712,12,792
+"3"
+728,12,787
+"4"
+728,12,801
+"5"
+737,12,806
+"6"
+737,12,820
+"Behindertengerechter Aufgang zum Weltenrennen"
+974,-6,165,974,-6,173,979,-6,165,979,-6,173
+"U1 - Richtung Gottesturm"
+974,-2,165,994,-2,165,999,-2,165
+"Weltenrennen"
+974,-6,168,974,-6,170,979,-6,168,984,-6,168,989,-6,168,979,-6,170,984,-6,170,989,-6,170,994,-6,168,994,-6,170,397,20,176
+"U1 - Richtung Karsthafen"
+974,-2,173,994,-2,173,999,-2,173,-2,4,-46,-2,4,-44,2,4,-46,2,4,-44
+"Hier wird fuer Sie gebaut: Oststrasse"
+966,22,176
+"Rolltreppe zum Weltenrennen"
+989,-6,165,989,-6,173,994,-6,165,994,-6,173
+"Metro - Linie U1"
+1001,24,175,1001,24,183,1042,23,175,1042,23,183,447,13,334
+"Durchgang zur Osttribuene"
+994,24,193
+"Rang2"
+1004,24,193
+"Rang 1"
+1004,22,196
+"Rang 3"
+1001,26,196
+"Westtribuene"
+994,24,197
+"Rang 4"
+998,26,197
+"U1"
+1019,12,154,1014,11,165,1014,11,173,-2,3,-37,2,3,-37
+"Kasse 2"
+1010,10,156
+"Kasse 1"
+1010,10,159
+"Kaufschnell"
+1015,13,159
+"Ausgang - Weltenrennen Westtribuene"
+1014,11,175,1014,11,183
+"Ausgang - Weltenrennen Osttribuene"
+1019,12,184
+"Rang Sued 1-2"
+1022,26,176
+"Heiler Brunnen des Rennsports"
+1014,31,177
+"Diese Etage: Rang Sued 2 - Treppe nach unten: Rang Sued 1"
+1023,25,184
+"Osttribuene - Rang Sued 1-4"
+1031,23,173
+"Rang Sued 4"
+1025,27,174,1038,28,189
+"Rang Sued 3"
+1025,27,176,1038,28,191
+"Durchgang zur Westtribuene"
+1034,23,188
+"Osttribuene Rang 1-2"
+1036,23,188
+"Rang Sued 2"
+1037,24,191
+"Rang Sued 1"
+1037,24,193
+"Rang Nord 1"
+1037,24,203
+"Rang Nord 2"
+1037,24,205
+"Rang Nord 3"
+1038,28,205
+"Rang Nord 4"
+1037,28,207
+"Osttribuene Rang 3-4"
+1041,23,186
+"Dr. Wahnsinns Huette - Gaeste nicht willkommen! Verschwinden Sie!"
+1012,4,358
+"Dr. Wahnsinns Geruempelhaus. Wenn die Treppe zugemuellt ist, bitte durch die Fenster in das andere Stockwerk hangeln."
+1012,11,358
+"pascal kuttla r.i.p"
+69,-8,-480
+"malte dilba r.i.p"
+71,-8,-480
+"henrik dollor r.i.p"
+73,-8,-480
+"willi frikel r.i.p"
+68,-8,-477
+"marc kull"
+74,-8,-477
+"r.i.p holl"
+71,-6,-477
+"zeronik hd r.i.p"
+69,-8,-474
+"sarazar lp r.i.p"
+71,-8,-474
+"gronkh lp r.i.p"
+73,-8,-474
+"nicos haus nr.2"
+89,4,-480
+"Jaegerhof"
+-289,-21,1177,-289,-21,1181,-289,-21,1189,-289,-21,1193,-273,-21,1177,-273,-21,1181,-273,-21,1189,-273,-21,1193
+"Koenigsdorf Ost"
+-289,-5,178,-289,-5,182,-289,-5,190,-289,-5,194,-287,-5,176,-275,-5,176,-273,-5,178,-273,-5,182,-273,-5,190,-273,-5,194,-287,-5,196,-275,-5,196
+"Hier entsteht die U-Bahn-Linie 4"
+-274,-13,1176
+"Maerchenland"
+-87,5,1423,-83,5,1423,-87,5,1425,-83,5,1425,-79,5,1423,-75,5,1423,-71,5,1423,-79,5,1425,-75,5,1425,-71,5,1425
+"Rezeption des Gaestehauses 'Himmelsgarten'"
+-930,82,1185
+"Maedchen- und Frauenschlafsaal"
+-928,77,1174
+"Jungen- und Maennerschlafsaal"
+-928,77,1175
+"Himmelsgartenwache"
+-926,83,1164,-903,83,1164
+"Himmelsgarten Information"
+-926,82,1179,-924,83,1186
+"Himmelsgarten Gaestehaus"
+-924,83,1187
+"Palastwache"
+-924,83,1189
+"Zutritt fuer Unbefugte strengstens Verboten"
+-924,83,1190
+"Koenigsstrasse"
+-471,42,1183,-471,42,1187
+"Zugang zur Strasse"
+-460,42,1172,-456,42,1172
+"Lokal Kreuzerbier"
+-460,42,1198,-456,42,1198
+"U-Bahnstation"
+-445,42,1183,-445,42,1187
+"solar"
+1782,10,184
+"Gut festhalten sonst wird die Romantik vom Winde verweht"
+1808,13,118
+"Romantischer Platz"
+1809,13,118
+"Tiefkuehltruhe nur fuer verliebte!"
+1808,13,129
+"nico eage �"
+1809,11,135
+"solar war hier und ist manchmal da, aber jeder darf hier sein!"
+1809,14,135
+"Peters sprungturm"
+1809,17,135
+"heim von nico "
+731,13,-63
+"keller"
+736,13,-61
+"-11- Rumpfkreisen an den Ringen"
+255,9,337
+"-12- Oberkoerper auf dem Baumstamm zuruecklehnen und vorbeugen."
+268,6,323
+"-10- Rumpfdrehen mit einem Baumstamm auf den Schultern."
+268,13,352
+"-9- Flanke ueber das Hinderniss und untendurch zurueck."
+285,12,362
+"-14- Mit den Fuessen abwechselnd auf die Baumstaemme springen."
+298,4,317
+"-13- Knie beugen und strecken"
+291,4,324
+"-8- Klimmzuege"
+303,13,359
+"-7- Armkreisen Seitwaerts"
+302,9,375
+"-15- Vorwaertshuepfen links und rechts ueber den Baumstamm"
+314,4,324
+"Die alte Eiche ist mindestens 300 Jahre alt und war frueher einmal der Sammelplatz der Karsthafener Druiden. Der Baum war frueher hoeher als heute und ist durch mehrere Blitzeinschlaege beschaedigt. Trotzdem ist es immer noch der hoechste Baum im Stadtgebiet von Karsthafen."
+314,12,350
+"Tennisstadion Nordeingang / Architektendenkmal am Nullpunkt / Teufelsturm"
+354,22,-64,354,22,-62
+"Tennisplatz Suedeingang"
+355,22,-64,357,22,-64
+"Karsthafen / Weltenrennen"
+355,22,-62,357,22,-62
+"Zum Tennisstadion"
+389,20,160
+"Karsthafen"
+395,20,176,193,10,-170,194,10,-170,195,10,-170,196,10,-170,197,10,-170
+"LInks: Court 4,5,6,7"
+159,3,-165
+"Zum Court 2 und dessen Tribuene"
+147,9,-160
+"Zum Court 3 und dessen Tribuene"
+147,9,-157
+"Getraeke"
+150,9,-136
+"Getraenke"
+154,9,-136,236,9,-134,236,9,-129
+"Preisliste"
+153,9,-133,164,9,-134
+"Court 11"
+248,9,-163
+"Aktuelle Daten der Woche"
+152,9,-254,152,10,-254,152,9,-253,152,10,-253,152,9,-252,152,10,-252,152,9,-251,152,10,-251,152,9,-250,152,10,-250,152,9,-249,152,10,-249
+"Tribuene zum Court 1"
+150,9,-204
+"Tribuene von Court 1,2,3,4,5,"
+147,9,-197
+"Tribuene zu Court 1,2,3,4,5"
+147,9,-193
+"Links: Court 1,2,3,18"
+159,3,-186
+"Tribuene zum Court 2"
+150,9,-186
+"Court 11,12,13 sind durch den Ausgang am schnellsten zu erreichen"
+159,3,-185
+"Rechts: Court 4,5,6,7,8,9,10,14,15,16,17 / Kamaraposition /  Geheimausgang"
+159,3,-184
+""
+185,10,-244,191,10,-244,168,0,-111,168,0,-105
+"Aufenthaltsraum: "Natur"
+189,9,-208,192,9,-208
+"Court 18"
+197,9,-261
+"Ticketschalter"
+200,9,-235,203,9,-235,206,9,-235,209,9,-235,198,9,-135,198,9,-132,198,9,-129,198,9,-126
+"Security / Polizei"
+197,17,-219,166,17,-186,224,17,-183,196,17,-152
+"Aufenthaltsraum: "Strand"
+202,9,-208,205,9,-208
+"Ruhmeshalle / Ausgang / Court 11,12,13"
+213,9,-208,213,9,-205
+"Doppel 1993: "
+215,9,-207
+"Doppel 1994:"
+216,9,-207
+"Doppel 1995:"
+217,9,-207
+"Doppel 1996"
+218,9,-207
+"Doppel 1997: "
+219,9,-207
+"Doppel 1998: "
+220,9,-207
+"Doppel 1999:"
+221,9,-207
+"Doppel 2000: "
+222,9,-207
+"Doppel 2001: "
+223,9,-207
+"Einzel 1993;"
+215,9,-206
+"Einzel 1994:"
+216,9,-206
+"Einzel 1995: "
+217,9,-206
+"Einzel 1996: "
+218,9,-206
+"Einzel 1997:"
+219,9,-206
+"Einzel 1998: "
+220,9,-206
+"Einzel 1999:"
+221,9,-206
+"Einzel 2000:"
+222,9,-206
+"Einzel 2001: "
+223,9,-206
+"Karsthafen Open"
+220,10,-202,223,10,-202,190,10,-186,190,10,-184,200,10,-186,200,10,-184
+"Sponsored by solar"
+221,10,-202,222,10,-202
+"Presseraum"
+213,9,-198,213,9,-195
+"Doppel 2002: "
+224,9,-207
+"Doppel 2003: "
+225,9,-207
+"Doppel 2004: "
+226,9,-207
+"Doppel 2005: "
+227,9,-207
+"Doppel 2006: "
+228,9,-207
+"Doppel 2007: "
+229,9,-207
+"Doppel 2008: "
+230,9,-207
+"Doppel 2009: "
+231,9,-207
+"Doppel 2010: "
+232,9,-207
+"Doppel 2011: "
+233,9,-207
+"Doppel 2012: "
+234,9,-207
+"Einzel 2002:"
+224,9,-206
+"Einzel 2003: "
+225,9,-206
+"EInzel 2004: "
+226,9,-206
+"Einzel 2005: "
+227,9,-206
+"Einzel 2006:"
+228,9,-206
+"EInzel 2007: "
+229,9,-206
+"Einzel 2008: "
+230,9,-206
+"Einzel 2009: "
+231,9,-206
+"Einzel 2010: "
+232,9,-206
+"Einzel 2011: "
+233,9,-206
+"Einzel 2012: "
+234,9,-206
+"Nur fuer Personal"
+232,9,-197
+"Court 17"
+243,9,-261
+"Court 13"
+248,9,-235
+"Court 12"
+248,9,-199
+"Court 16"
+294,9,-233
+"Court 15"
+294,9,-197
+"Court 14"
+294,9,-163
+"Herren links, Damen rechts"
+319,16,-141
+"Personal"
+161,3,-189,161,3,-187
+"Court 1-18  / Kamaraposition "
+171,11,-187
+"Court 1-18  / Kamaraposition"
+171,11,-183
+"Zimmer 101"
+164,14,-169
+"Rechts: Court 8,9,10,14,15,16 / Kamaraposition / Geheimausgang"
+161,3,-165
+"Zimmer 102"
+164,14,-163
+"Umkleide Links: Herren"
+176,11,-187
+"Center Court"
+177,11,-185
+"Umkleide Rechts: Damen"
+176,11,-183
+"Wohnraeume"
+176,9,-169,176,9,-166
+"Kamaraposition"
+182,3,-165,184,3,-165
+"Restaurant"
+185,9,-161,188,9,-161
+"Geheimausgang"
+192,7,-185,192,3,-165,195,3,-165
+"Zum MIttelpunkt des Stadions"
+192,3,-167
+"Zum Mittelpunkt des Stadions"
+195,3,-167
+"Zu Court 8,9,10"
+222,3,-165,226,3,-165
+"Ablage "
+223,9,-163
+"Buecherei"
+209,9,-161,212,9,-161
+"Karsthafener Zeitung: "Nach Fertigstellung der Tenniszentrums wurde beschlossen hier ein grosses Tunier, die "Karsthafen Open" zu starten. Naechstes Jahr beginnt das Tunier erstmalig."
+231,9,-163
+"Karsthafener Zeitung: "Beginn des Baus des Tenniszentrums. Geplant sind 18 Aussencourts und ein Tennisstadion."
+231,9,-161
+"Karsthafener Zeitung: "Planung eines neuen Tenniszentrums, wohl auch mit Stadion!"
+231,9,-159
+"Pressezentrum"
+236,9,-159,236,9,-154
+"Snacks"
+224,9,-136,229,9,-136
+"Preise"
+231,9,-132,226,9,-129,227,9,-129
+"Gegrilltes"
+161,9,-136,165,9,-136
+"Kleinigkeiten/Suesses"
+168,9,-136,172,9,-136
+"Bespannungsservice/Tenniswaren"
+177,9,-136,180,9,-136
+"Tennisstadion"
+193,-1,-109,201,-1,-109,201,-1,-105,193,-1,-101,201,-1,-101,193,-1,-97,193,-1,-93,201,-1,-93,-51,13,-8,-45,13,-8
+"Erste Hilfe"
+209,9,-136,212,9,-136
+"Tiefer Gebrauchtwarenmarkt"
+359,-29,365
+"Zum Court 4 und dessen Tribuene"
+147,9,-113
+"Zum Court 5 und dessen Tribuene"
+147,9,-110
+"Richtung: ?"
+177,0,-109,177,0,-107
+"Zur U1 / Parkhaus"
+193,9,-128
+"Karsthafen Karsttor / Architektendenkmal am Nullpunkt / Teufelsturm"
+165,11,-62
+"Abzweigung Tennisstadion Nordtor"
+166,12,-62,167,12,-61
+"Tennisstadion Suedtor / Karsthafen Kelchtor / Weltenrennen"
+167,11,-60
+"Aufstieg zum Restaurant des Waisenhauses 'Kleine Horde'"
+542,5,341
+"Zutritt fuer Mieter der Schlafstellen"
+543,4,367
+"Andeeas Alohoool - Schnaps und andere Getraenke"
+544,5,379
+"Strandbar 'Zum Sueden'"
+562,4,357
+"Hafenschmiede"
+300,5,476
+"-16- In den Stuetz springen"
+319,4,315
+"Suedstadttor"
+432,13,317,432,13,322
+"Neuer Turm - Kommitee zur Verschoenerung der Suedstadt - Bitte 3 mal klingeln"
+446,13,318
+"Pokerclub "Losty""
+463,5,318,463,5,321
+"Club 666 - Abtanzen auf 2 Ebenen"
+448,10,326
+"Der glaeubige Hans. Wiederauferstanden im Jenseits. Nachmieter fuer das Grab gesucht."
+401,24,388
+"Jin - Der Koerper liegt hier begraben, der Geist wiedergeboren. Das Grab bitte fuer die naechsten Inkarnationen bereit halten."
+404,24,388
+"Mario Oparetta - Er stand am falschen Platz als seine Frau beim Fensterputzen verunglueckte. Und nun im Grab wird er sein was er vorher niemals war: Treu!"
+414,19,390
+"Hannelora Oparetta - Sie schrie so laut, das sie ihren eigenen Aufprall nicht hoerte!"
+415,19,390
+"Hier liegt der Widerspruch in sich selbst begraben."
+412,21,392
+"Hier liegt Kapt'n Glasauge. Bei seinem 2. Besuch von Karsthafen starb er genau an dieser Stelle vor Wut."
+401,22,392
+"Hier liegt Kapt'n Glausauges Manschaft. Kurz vor seinem Tot hat er diese Manschaft so klein gemacht, das alle 66 Mann in einen einzigen Sarg passten."
+402,22,392
+"Seine letzten Worte: "Ich werde Ewig leben!""
+413,21,395
+"Es ist nicht gestattet blaugestreifte Katzen auf dieses Grab pinkeln zu lassen."
+409,20,396
+"Hier liegt begraben "Bea Mtenhund", zu Lebzeiten zustaendig fuer die Friedhofs- und Totenackerverordnung."
+409,20,397
+"Seine letzten Worte waren: "Ein schoenes Holzhaeuschen, das haett ich gern". Und so bekam er dieses hoelzerne Kreuz."
+415,20,397
+"In diesem Grabe rotiert der beruehmte Musiker John Theus Kugel."
+410,18,399
+"Zur Erinnerung: Vor verlassen des Grabes Uhrzeit und Sonnenuntergang/-aufgangszeiten ueberpruefen."
+421,12,391
+"Hans Hau der Steinmetz starb beim Versuch seinen Bruder vor einem Dungeonmaster zu retten und wurde dann unter einem Grabstein der Konkurenz begraben. Gemeinsam mit dem Dungeonmaster der vor lachen Starb. Lausche und du wirst sie immer noch rotieren hoehren!"
+427,15,396
+"Martin Metz, seine letzten Worte waren: So ein Dungeonmaster ist doch kein Problem!"
+427,15,397
+"Frau Olympia Edelstolz schlaeft unter diesem Stein, wie sie nur selten schlief - allein!"
+421,17,388
+"Der alte Griesgram "Casanova Donnerbeil" - Verstorben an einer jungen Frau"
+418,19,388
+"Gruft der Familie Drakonis Pfaehlinius"
+422,17,391
+"Mein Weib Dorette Mann deckt dieser Grabstein zu, fuer ihre und fuer meine Ruh!"
+417,18,392
+"Arne (Manne) Mann ist tot. Tiefergelegte 4 Pferdekutsche mit Fuchschwanz zu verkaufen."
+418,18,392
+"addi - Er hatte den Knopf "Don't push this button" gedrueckt!"
+424,17,395
+"Dies ist die rechte Seite des Grabes. Ich liege unter der Linken!"
+416,18,395
+"Dies ist die linke Seite des Grabes, ich liege unter der Rechten!"
+417,18,395
+"Betreten des Grabes verboten."
+422,16,397
+"Eltern haften fuer ihre Kinder."
+423,16,397
+"Gemeinschaftsgrab der lustigen Brueder. An diesem Grabe ist das trauern verboten."
+418,18,397
+"Dieses Grab wurde gesponsort vom Politessenverband Karsthafen."
+421,16,398
+"In diesem Grabe liegen alle unnoetigen Verordungen und Verbote."
+424,16,398
+"Kiosk am Bahnhofstor"
+443,10,394
+"Zuege Richtung Weltenrennen"
+449,11,336,450,3,365
+"Zuege Richtung Karsthafen Mitte"
+455,11,336,454,3,365
+"Karsthafen Sued"
+448,7,344,456,7,344,448,7,348,456,7,348,448,7,352,456,7,352,448,7,356,456,7,356
+"Noch'n Schluck - Tagespresse und Getraenke"
+458,5,372
+"Ausgang Felsstrasse"
+466,7,435,463,7,435
+"Ausgang Muensterplatz / U1 Richtung Sued / U2 (Strandbahn)"
+466,7,439,458,7,435,461,7,435,463,7,439
+"Oberes Tor"
+473,19,434
+"Durchgang auf eigene Gefahr"
+464,19,439,461,12,439,361,13,413,364,17,412
+"Die Stadt Karsthafen dankt fuer alle modernen Fassungten Kugels Musik, dank derer die Stadt mit kostenfreier Fernwaerme durch Rotationsenergie versorgt werden kann."
+410,18,400
+"Long vehicle at livetime, long tombstone at deathtime."
+405,19,400
+"Hier liegt begraben, der Fernfahrer "Rudi Raser". Er starb eines unnatuerlichen Todes: Altersschwaeche."
+406,19,400
+"Du"
+408,17,403
+"Ich"
+409,17,403
+"Drogo Beutlin - Gut das er nicht mehr erleben musste was aus seinem Sohn wurde!"
+407,16,406
+"Primula Brandybock - Schade das sie nicht erleben durfte was aus ihrem Sohn wurde!"
+408,16,406
+"Maria Gades - Ihre Glaeubigkeit und Keuschheit ist ohne Fehl. Verstorben als ihr beim Predigen ein Spatz in den Mund flog."
+410,16,406
+"Erwin Gades - Verstorben an Leberzirrose, der Alkohol war sein einziger Freund."
+411,16,406
+"Markus H. welcher nicht zuhoerte als Sie ihn warnte."
+414,16,407
+"Kreuz des Suedes, Grab des Nordens"
+404,16,408
+"Nadia  H. das Plappermaul welches ihren eigenen Rat nicht befolgte."
+414,16,408
+"Familiengrab der Familie Einsiedler"
+408,17,409
+"Gemeinschaftsgrab der Pastoren der Kirche 'Zu unserer lieben Frau' ausser Pastor Binnichda welcher die andere Seite des Meeres sehen wollte."
+411,18,409
+"Ronald Isegrim Penderast"
+403,17,413
+"Die sieben Zwerge - im Tot vereint"
+406,17,413
+"Hier ruht in Frieden: Der Krieg"
+409,17,413
+"User - Seine letzten Worte waren: Was kann da schon passieren?"
+412,17,413
+"Hier ruht der Spielspass"
+415,17,413
+"Tiefer gelegener Erbstollen zur Entwaesserung des Bergwerks"
+418,10,400
+"Heinz Werbemann, beerdigt unter einem Grabstein der Steinmetze Metz und Hau!"
+425,15,401
+"Gold"
+423,9,402
+"Eisen"
+428,9,402
+"Dies koennte ihre Grabstaette sein. Ruhen Sie ewig neben Heinz Werbemann! Interessenten koennen sich im Beerdigungsinstitut am Totenacker melden."
+425,15,402
+"Dieses Grab ist reserviert fuer Elisa, die Gattin von Volker Dererde."
+428,15,403
+"Schon belegt! Volker Dererde"
+429,15,403
+"Lorenbahn zum Abtransport von Erz und Abraum"
+418,9,404
+"Kupfer"
+423,9,404
+"Kohle"
+428,9,404
+"Entwaesserungsgraben"
+418,9,406
+"Hier liegen anonym begraben: Karlheinz Untot, Maria Krawall, Der unbekannte Soldat Hans Hansen-Hansen"
+427,15,407
+"Sandstein"
+431,10,408
+"Loescheimer der Feuerwehr"
+431,15,408
+"Weicher Stuetzbalken aus Fichtenholz zeigt Gefahr durch Knarzen an"
+421,10,409,423,10,409
+"Harter Stuetzbalken aus Eichenholz mit hoher Tragkraft"
+427,10,409,429,10,409
+"Holzfaelleraxt"
+431,15,410
+"Diamand"
+425,9,413
+"Tonerde"
+431,15,413
+"Das stehlen dieses Grabes ist polizeilich verboten."
+424,16,400
+"Mindestens haltbar bis morgen."
+422,16,401
+"Das oeffnen des Grabes fuer unbefugte verboten."
+423,16,401
+"Hier liegen meine Gebeine, ich wollte es waeren deine! - Karl Julius - P.S. An meine Familie: Finger weg von meinem Grabspruch!"
+416,17,403
+"Seine letzten Worte: "Obwohl sie jetzt tot ist, aergert sie mich mit einem so komisch schmeckenden Essen, diese ...""
+419,17,403
+"Ihre letzten Worte bei einem Ehestreit am Abendtisch: "Pah, du weisst doch noch nicht einmal wie man ein Schwert haelt""
+420,17,403
+"Familiengrab der Familie Grunz, welche spaeter Grunz-Hinz hiess aber nur Hinz genannt werden wollte, die wir deshalb "Familie Grunz Grunz-Hinz die nur Hinz genannt wird" nennen."
+418,17,406
+"Wenn du das liest, stehst du auf meinem Grab! Anton Ueberlatschen."
+423,17,408
+"Frank Gewicht, vereint im Ehekrach, vereint fuer die Ewigkeit"
+425,17,408
+"Michail Mecha welcher in der Krypta beerdigt wurde, der aber trotzdem einen Grabstein auf dem Totenacker bekam."
+419,17,409
+"Andrea Masse, geschiedene Gewicht"
+425,17,410
+"Der unbekannte Dicke den wir alle als guten Freund kannten."
+418,17,411
+"Der beruehmte Duenne, dessen Namen niemand kennt."
+421,17,411
+"Blumen und Grabzubehoer Fa. Moerder"
+420,18,427
+"Haus des Dialogs"
+423,16,443
+"Metro - Linien U1 und U2"
+430,19,449,463,13,421,462,13,422
+"Gebeine vom alten Friedhof"
+429,12,469
+"Staedtischer Gebrauchtwarenladen"
+440,12,403
+"Zum Totenacker"
+440,15,405
+"Gebirgsstein"
+432,10,406
+"Wuestenstein"
+432,10,407
+"Spitzhacke eines Bergmannes"
+433,15,408
+"Bergmanns- und Bauarbeiterschaufel"
+435,15,408
+"Sense fuer die Feldarbeit"
+437,15,408
+"Stahlbarren"
+434,15,410
+"Kuperbarren"
+437,15,410
+"Bronzebarren"
+434,15,411
+"Goldbarren"
+437,15,411
+"Stadtmuseum"
+441,17,407
+"Der Mese-Kristall, ein Diamat mit gelber Faerbung"
+439,24,408
+"Zur Aussichtsplattform"
+437,26,408,435,28,410
+"Acradacabraras magische Flugmaschine"
+433,18,409
+"Regenbogen vom Kuenstler Nyan Cat"
+432,25,409
+"Meese vom Kuenstler Celeron55"
+434,25,409
+"Staehlernes Schwert der Wache"
+435,27,409
+"Schmelzofen"
+434,16,411
+"Schaustollen"
+436,16,411
+"Aufstieg zur Heimatabteilung"
+438,16,411
+"Das Pfarrbuch der ersten Siedlung, gefunden im alten Grabhuegel, aus denen auch die daneben liegenden Knochen stammen"
+433,24,411
+"Zum Wachgang"
+436,28,411
+"Ein Stueck Schiene der U1, der aeltesten U-Bahn-Liene der Welt, welche aus Stahl von Karsthafener Bergwerken gebaut wurde."
+436,24,413
+"Die Stadturkunde von Karsthafen, mit dieser Stadturkunde vermachte der Kaiser der Stadt auch die beiden mit Gold verziehrten Steinbloecke, die er nach dem Stadtgruender "Meese Bloecke" nannte"
+438,24,413
+"Stahl Sicherheitstuer der ehemaligen Karsthafener Firma 'Bruch und Ein KG'"
+434,25,413
+"Holztuer der Karsthafener Firma 'Schraenkli'"
+437,25,413
+"Arztpraxis Dr. Obenohne"
+444,20,425
+"N. Tweder Abendkleidung und Massschneidei"
+438,19,428
+"U1 Richtung Sued"
+447,7,436,447,7,438,449,2,440,449,2,444
+"Zugang zur U-Bahn"
+433,5,442
+"Unterstadt-Restaurant "An der U1""
+432,4,443
+"Hochspannung - Lebensgefahr"
+435,16,455
+"Pfarrhaus"
+433,16,468
+"Modellbahnanlage an der U1"
+459,8,401
+"Kuenstleragentur Laerm & Krach"
+456,11,425
+"U1 Richtung Nord"
+449,2,427,457,7,436,457,7,438
+"Ausgang Felsstrasse / U1 Richtung Nord"
+455,2,427,455,2,442,455,2,447
+"Fahrkarten und Information"
+456,2,435
+"Farkahrten und Information"
+456,2,441
+"Weberei Unterbrueck und Soehne"
+456,13,441
+"Ausgang Muensterplatz"
+449,2,445,449,2,453
+"Jugendhaus"
+461,12,447
+"U2 (Strandbahn)"
+455,2,455,455,2,458,455,2,461
+"Kuester"
+449,12,476
+"Ebene 5 von 13: Fliegende Inseln"
+111,293,580
+"Ebene 2/13: Ebene der Kupferinstallation"
+119,285,571
+"Ebene 1 / 13 - Ebene des Holzes"
+127,288,577
+"Ebene 4 von 13: Stahlrohr"
+127,293,582
+"Rathaus"
+367,16,454,367,16,479,367,16,483
+"Gewerbeamt"
+367,16,460
+"Buergermeisteramt"
+366,24,461,369,24,470
+"Gewerbeaufsicht"
+356,24,488
+"Raatssaal"
+364,17,490
+"Innenhof mit Zugang zu Amtsstuben"
+363,24,490
+"Arbeits- und Sozialamt"
+364,24,491
+"Archiv"
+364,16,492
+"Finanzamt"
+358,24,492
+"Klub der Philosophen"
+368,17,449
+"Karsthafener Schiffsversicherung"
+369,16,454
+"Buergermeister"
+379,24,460
+"Besuchszimmer"
+381,24,463
+"Einwohner Meldeamt"
+368,24,484
+"Kriminalpolizei"
+368,24,489
+"Kommissariat"
+380,24,501
+"Zur Schnellen Kueche"
+396,17,447
+"Markttor"
+386,16,458,386,16,462
+"Stadtarchiv"
+393,24,460
+"Zentralkaufhaus"
+403,16,427
+"Gottes Segen - Devotionalienhandel"
+407,16,459
+"Bibliothek der Stadtwache - Buecher bitte pfleglich behandeln"
+406,28,459
+"Muenster zu unserer lieben Frau"
+414,16,468,405,16,479,405,16,483
+"Bibliothek"
+404,24,476
+"Karststaedter Kirchenorgel"
+410,24,479
+"Aufgang zum Turm"
+409,24,482
+"Zugang zu Turm und Bibliothek"
+415,16,488
+"Glockenturm - Fuer unbefugte kein Zutritt"
+412,37,481
+"Duschen"
+108,144,567,107,154,567,130,180,572,130,180,586
+"Gruppenumkleide"
+111,152,567,103,149,578,106,151,582,112,147,565
+"Umkleide"
+111,152,568,103,149,579,112,147,568
+"Damen"
+106,151,584
+"Herren"
+105,151,585
+"Duschen Herren"
+121,152,562
+"Duschen Damen"
+121,152,565
+"Schwimmbad"
+116,147,567,115,152,567
+"Panoramabad"
+112,151,586
+"Panoramabad - Notausgang"
+126,151,586
+"Tretbad"
+110,180,566
+"Tretbecken"
+106,180,570
+"Eisbecken"
+106,186,570
+"Whirlpool"
+106,179,574,106,179,584
+"Dampfsauna"
+107,187,579
+"Beginn des Lehrganges"
+111,240,577
+"Finnische Sauna"
+127,183,567
+"Umkleide / Ausgang"
+112,180,571,127,180,572,113,180,588,128,180,586
+"Panoramasauna"
+113,180,573,125,180,573,113,180,585,125,180,585
+"Hotel Teufelsturm"
+123,197,573,113,197,575,125,197,583,115,197,585
+"Hotelrestaurant Teufelsturm"
+123,229,573,113,229,575,125,229,583,115,229,585
+"Aquarium Eingang"
+113,240,573,125,240,573,113,240,585,125,240,585
+"Massagebecken"
+124,182,587
+"Thermalbad"
+114,179,590
+"Information und Handtuchverleih"
+126,180,591
+"Zum Panoramabad"
+125,180,592
+"Schliessfaecher fuer Gaeste aus dem Panoramabad"
+118,181,594
+"Gesundbrunnen - Heilwasser und Armbad"
+115,186,594,123,186,594
+"Heisser Stein"
+129,184,574,128,185,584
+"Heilsolebecken"
+131,185,585
+"Nach dem Solebad bitte Duschen"
+131,185,589
+"Teufelsturm Parkour - Starte hier und miss Dich in der Zeit!"
+109,270,570
+"Aquarium Ausgang"
+113,264,573,125,264,573,113,264,585,125,264,585
+"Teufelsturm Parkour"
+123,269,573,113,269,575,125,269,583,115,269,585
+"Ebene 3 von 13: Ebene von Leiter und Zaun"
+119,306,572
+"Teufelsturm Parkour - Zuschauertribuene"
+114,305,574,124,305,574,114,305,584,124,305,584
+"Ebene 9 von 13: Labyrinth"
+122,324,572
+"Ebene 10 von 13: Obsidian"
+119,334,572
+"Parkour - Endspurttribuene"
+114,334,575,114,334,583
+"Teufelsparkour - Zieltribuene"
+116,353,573,125,353,576,113,353,582,122,353,585
+"Himmel und Teufel - Werbeagentur"
+116,361,573
+"Stars und Stern - Kuenstleragentur"
+116,365,573
+"Ebene 8 von 13: Weiter Sprung"
+126,312,577
+"Ebene 6 von 13: Freiheit"
+112,309,580
+"Ebene 7 von 13: Glas"
+112,324,579
+"Ebene 11 von 13: Kurze Entspannung"
+112,341,579
+"Ebene 13 von 13: Langer Sprint / Siegertreppchen"
+112,348,579
+"Ebene 12 von 13: Kurzer Sprint"
+126,340,580
+"Kabelsalat - TV und Filmtechnik"
+125,361,576
+"Filmtower Kantine"
+125,365,576
+"Leiter der Sieger"
+112,352,579
+"Kanal Karsthafen - Radiostation"
+113,361,582
+"Kanal Karsthafen - TV Station"
+113,365,582
+"Fernsehstudio 666"
+122,361,585
+"Klirrrr - Klangstudio"
+122,365,585
+"KNA - Karsthafener Nachrichtenagentur"
+116,369,573
+"Vertikale Stadt - Unterer Notausgang"
+115,373,574,124,373,575,114,373,583,123,373,584
+"Filmtower - Pausenraum"
+125,369,576
+"Kanal Karsthafen - Nachrichtenstudio"
+113,369,582
+"Ratschpeng - Trickstudio fuer Film und TV"
+122,369,585
+"Vertikale Stadt - Suedturm"
+121,521,575
+"Vertikale Stadt - Westturm"
+115,521,577
+"Vertikale Stadt - Ostturm"
+123,521,581
+"Vertikale Stadt - Nordturm"
+117,521,583
+"Kleiner Karsthafener Bootstunnel"
+195,5,600
+"Vertikale Stadt - Hauptebene"
+115,421,574,124,421,575,114,421,583,123,421,584
+"Aussichtsplattform des weissen Saals"
+112,139,572,126,139,572,112,139,586,126,139,586
+"Kein Zutritt fuer Unbefugte"
+121,75,570,117,75,588
+"Grosses Turmrestaurant"
+112,75,572,126,75,572,112,75,585,126,75,586
+"Weisser Saal"
+124,108,572,112,108,574,126,108,584,114,108,586
+"Tiefe Steige"
+124,-108,572
+"Hoellenloch"
+126,-124,586
+"Grosse Stichhoehle"
+126,-113,586
+"Hornhoehle"
+114,-104,586
+"Raum der verdammten Seelen"
+134,-246,541
+"Raum der tausend Echos"
+91,-379,557
+"Tiefer Schlund"
+114,-386,584
+"Zum Architektendenkmal und Tennisstadion"
+90,9,601
+"Luzifer Saal"
+110,-14,571
+"Luziferhoehle"
+112,-20,574
+"Luzifer-Saal"
+112,-12,573
+"Aufstieg zum grossen Turmrestaurant und zum weissen Saal"
+114,11,573
+"Eingangssaal Balkon"
+113,27,572,125,28,572,126,27,573,112,28,573,112,27,585,126,28,585,125,27,586,113,28,586
+"Aufstieg zum Panoramabad"
+113,11,584
+"Nach Karsthafen"
+148,9,601
+"Hoehle der verlorenen Seelen"
+123,-253,573
+"Kleine Stichhoehle"
+125,-272,584
+"Kleiner Stichsee"
+142,-261,602
+"Teufelshoehle Oberer Gang"
+122,-761,577
+"Teufelsgrotte Oberer Gang"
+122,-762,581
+"Teufelshoehle Unterer Gang"
+122,-768,583
+"Verhoerzimmer"
+107,-1311,567
+"Aufenthaltsraum"
+107,-1311,591
+"Goldhoehlengefaengnis"
+115,-1311,575,123,-1311,575,115,-1311,583,123,-1311,583
+"Goldhoehle"
+123,-1307,583,131,-1311,591
+"Schlafsaal"
+131,-1311,567
+"Goldhoehle - Mitfuehren von Werkzeugen verboten!"
+135,-1311,593
+"Goldhoehle - Thronsaal"
+142,-1298,604
+"Tor der Verdammten"
+127,-1328,579
+"Karsthafen / Teufelsturm"
+-51,12,8,-45,12,8
+"Schwarzalbenheim (103,-664,605)"
+-22,3,17
+"Koenigsburg (-838,43,1185)"
+-22,3,19
+"Himmelsturm (1630,21,230)"
+-20,3,22
+"Tennisstadion (194,10,-186)"
+-18,3,22
+"Unterirdische Stadt (unbenannt / im Bau)  <108,-4984,592>"
+-16,3,22
+"Burg (1352,4,-815)"
+-14,3,22
+"Fussballstadion (1574,3,-1110)"
+-12,3,22
+"farbiger Fall 1518,48,-1733"
+-10,3,22
+"Fliegende Stadt 900,1000,-700"
+-8,3,22
+"Tennisstadion 2 (-5640,32,-3822)"
+-6,3,22
+"Architektendenkmal"
+-38,12,-1,-38,12,1,-6,-1,-57,-2,-1,-57,-6,-1,-49,-2,-1,-49,2,-1,-57,2,-1,-49
+"Turm (1768,14,161)"
+-22,3,-15
+"Hoehle (81,10,-480)"
+-22,3,-13
+"Hoehle (326,3,1370)"
+-22,3,-11
+"Huette (745,20,-52)"
+-22,3,-9
+"Zum Nullpunkt"
+-18,3,-3,-18,3,3
+"Karsthafen (384,16,505)"
+-22,3,7
+"Teufelsturm (119,9,604)"
+-22,3,9
+"Weltenrennen (1032,22,179)"
+-22,3,11
+"Maerchenland (-60,29,1426)"
+-22,3,13
+"Meritensee (731,3,131)"
+-22,3,15
+"U1 - Richtung Tennisstadion"
+-3,4,-62,-2,4,-60,3,4,-62,2,4,-60
+"Architektendenkmal (solar, Peter)"
+26,13,21
+"U-Bahn (Peter, solar)"
+20,13,26
+"Landstrassen (solar)"
+23,13,26
+"-18- Arm- und Beinschwingen abwechselnd Links und Rechts."
+330,4,297
+"-17- Liegestuetze"
+328,4,307
+"-20- An den Stangen entlanghangeln"
+326,10,341
+"Pfad zur alten Eiche"
+329,12,355
+"-4- Rumpfwippen und Armkreisen"
+334,13,372
+"-5- Linke Hand zum rechten Fuss und rechten Hand zum linken Fuss schwingen."
+324,9,375
+"Zum reisenden Haendler"
+320,16,402
+"-19- Die Treppen hinaufjoggen und herunter gehen."
+338,7,299
+"-21- Balancieren ueber den Baumstamm"
+339,16,341
+"Die Antwort auf die Frage aller Fragen, die Frage nach dem Leben, dem Universum und dem ganzen Rest lautet, eine zweite Runde auf dem Trimm Dich Pfad zu laufen."
+346,20,352
+"Kein Durchgang - Ausgang aus dem Trimm Dich Pfad."
+346,20,354
+"Start des Trimm Dich Pfades."
+348,20,356
+"Vielen Dank fuer die Nutzung des Karsthafener Trimm Dich Pfads"
+349,20,356
+"Karsthafener Trimm Dich Pfad."
+351,20,356
+"-1- Armkreisen vorwaerts und rueckwaerts"
+343,19,357
+"-2- Beugen und Strecken mit Armheben."
+341,16,363
+"-3- Kniebeugen mit Armschwingen"
+338,14,380
+"Zutritt nur mit Erlaubnis der Gildenfuehrung"
+348,-12,384
+"Diebesgilde Karsthafen - "Nimm den Reichen, spende den Armen, Treue der Gilde""
+351,-11,388
+"Buchhandlung Leseratte"
+336,10,415
+"Karstschule"
+340,16,401
+"Karlsons Schneiderei und Bekleidungsmanufaktur"
+346,12,416
+"Gewuerze"
+349,14,430
+"Karsthafen - Suedstadt"
+361,17,294
+"Karsthafen - Innenstadt"
+359,17,296
+"Karsthafen - Kelchtor"
+362,19,385,370,19,385
+"Schreinerei Schraenkli"
+353,17,395
+"Trinkwasserbrunnen am Kelchtor"
+360,18,402
+"Fischhaendler am roten Turm"
+363,17,407
+"Heimisches Obst und Kartoffeln"
+353,14,430
+"Verband der Binnenhaendler"
+362,18,427
+"Trauerhalle am Totenacker"
+379,22,401
+"Durchgang zum Totenacker"
+374,17,405
+"Gasthaus Luxor"
+379,16,417
+"Imbiss am roten Turm"
+371,16,418
+"Nutzung des Grillplatzes auf eigene Gefahr"
+387,17,287
+"Anton A. - Er war zu Lebzeiten nur deshalb Arm, weil er seinen Erben nichts goennte."
+398,24,388
+"In diesem Grabe liegen beerdigt alle Vorsaetze fuer das aktuelle Jahr."
+384,22,389
+"Hier liegt begraben das vergangene Jahr."
+385,22,389
+"Dieses Grab ist reserviert fuer DICH und deine ganze Familie. Har har har!"
+388,22,389
+"Und dieses Grab seiner Frau [db_feld_name], welche [db_feld_verknuepfung_gatte] Ihr leben Lang in Treue zugetan war."
+390,22,389
+"Dieses Grab gehoert ....."
+391,22,389
+"Norbert Norosa, Gaertner zu Lebzeiten, Kompost im Tode."
+393,22,389
+"Natalia Noroasa liebte Rosen ihr Leben lang. Nun schaut sie sich diese von unten an."
+394,22,389
+"Julia Capulet"
+386,22,391
+"Romeo Montague"
+387,22,391
+"Hier liegt begraben der Ehestreit."
+392,22,392
+"Und hier das Ehepaar dazu."
+393,22,392
+"Nein dies ist kein Grab! Dieses Holzkreuz wurde von dem beruehmten Piraten "Glasauge" errichtet, um einen Schatz darunter zu verstecken. Die Stadtverwaltung von Karsthafen dankt ihm fuer diese unfreiwillige Spende."
+398,24,392
+"Hier liegt unser geliebter Bibliothekar dem der Faust aufs Auge viel."
+385,21,394
+"Hier liegt begraben der SPAM."
+389,21,394
+"Hier ruht der Geist der immer verneint."
+385,21,395
+"Hier liegt begraben der HAM, welcher versehentlich gemeinsam mit dem SPAM entsorgt wurde."
+389,21,395
+"Der Totengraeber "Egon Luftikus" schaufelte sich dieses Grab fuer sich  selbst. Bitte keine anderen Leichen in das Loch werfen!"
+392,21,396
+"Martinia Altenburga - Geboren als Jungfrau - Gestorben als Jungfrau - Kurz gesagt: Ungeoeffnet zurueck!"
+395,21,398
+"Minetest - Seine letzten Worte: "Ich bin kein Computerprogramm" - Dann drueckte er ALT+F4"
+398,21,398
+"Dieses Kreuz steht zum Gedenken an die Toten der zukuenftigen Kriege."
+387,23,398
+"Martin Martin Marthaus - Hier liege ich, ich kann nicht anders."
+391,21,401
+"Leider ist dieser Grabsteinspruch in Ihrem Land nicht verfuegbar."
+392,21,401
+"Marterpfahl - Bitte nur bei akutem Leichenmangel einsetzen."
+397,22,402
+"Hier liegt begraben: "Die Langeweile". Sie starb an Kurzweil."
+398,19,404
+"Hier liegt Gammo Gammer. Seine letzten Worte: "Ich bin jetzt mal offline"."
+393,21,404
+"Rosa Rosetta - Sie liebte Rosen ihr Leben lang, nun schaut sie sich die Rosen von unten an!"
+387,24,404
+"Hier liegen begraben: Die Nerven. Sie gingen von uns kurz nach dem sie die passende Saege fanden."
+398,19,405
+"Hier liegt Martha Gammer. 103 Personen gefaellt das."
+393,21,405
+"Liegt hier Marko Morka der Huetchenspieler?"
+392,22,407
+"Familiengruft von Erwin Fickmich, welcher niemals eine Familie gruendete und somit alleine in dieser Gruft liegt."
+398,20,409
+"Oder liegt Marko Morka der Huetchenspieler hier?"
+392,22,409
+"Oder liegt Marko Morka der Huetchenspieler etwa hier?"
+392,22,411
+"Bestattungsinstitut am Totenacker"
+395,22,413
